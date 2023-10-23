@@ -1,8 +1,8 @@
-[![REUSE status]()]()
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-developer-guide)](https://api.reuse.software/info/github.com/SAP-docs/btp-developer-guide)
 
 # Contributions to the SAP BTP Developer's Guide
 
-Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others much time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our [official documentation on SAP Help Portal](https://help.sap.com/docs/btp/btp-developers-guide/what-is-btp-developers-guide?version=Cloud). The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
+Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others much time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our [official documentation on SAP Help Portal](https://help.sap.com/docs/BTP/0c8c1db388f645159e134a005aaabbcf/ba26ec41130d4835aef2265ad3d3704e.html?version=Cloud). The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ For contributions, it's required that you have a GitHub account. For more inform
 
 We recommend using the SAP BTP Developer's Guide on SAP Help Portal as a starting point for contributions:
 
-1. Open the [SAP BTP Developer's Guide](https://help.sap.com/docs/btp/btp-developers-guide/what-is-btp-developers-guide?version=Cloud).
+1. Open the [SAP BTP Developer's Guide](https://help.sap.com/docs/BTP/0c8c1db388f645159e134a005aaabbcf/ba26ec41130d4835aef2265ad3d3704e.html?version=Cloud).
 1. You can either:
     * Choose *Feedback* > *Edit page* to suggest a change for the current page you see in the Help Portal viewer, or
     * Choose *Feedback* > *Create issue* to open a GitHub issue in this repository.
