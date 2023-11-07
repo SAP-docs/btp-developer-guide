@@ -25,16 +25,16 @@ Building on these key elements, you can use ABAP Cloud to cover the following sc
 
 -   **Transactional \(OLTP\)**: With ABAP Cloud you can build business objects and expose them as services, to consume them in UIs and integration scenarios. All standard behavior is supported \(create, read, update, delete\).
 
--   **Analytical \(OLAP\)**: ABAP Cloud is equally equipped for creating services and UIs for data analysis, for drilling down in multiple dimensions, like integrating the data in SAP Analytics Cloud.
+-   **Analytical \(OLAP\)**: ABAP Cloud is equally equipped for creating services and UIs for data analysis, and for drilling down in multiple dimensions, like integrating the data in SAP Analytics Cloud.
 
 -   **Integration**: Both previous aspects are complemented by strong data and application integration to cater to today’s service-oriented environments.
 
 
 The development model has two additional two key differentiators:
 
--   The **reuse services and libraries** with core business services like number ranges, application jobs, an ABAP-integrated SAP Fiori launchpad and UI repository to deploy SAPUI5 and SAP Fiori elements user interfaces.
+-   The **reuse services and libraries** with core business services like number ranges, application jobs, an ABAP-integrated SAP Fiori launchpad, and UI repository to deploy SAPUI5 and SAP Fiori elements user interfaces.
 
--   The **built-in qualities** offering end-to-end extensibility in the programming model, major cloud qualities like scalability and upgrade stable APIs and many more.
+-   The **built-in qualities** offering end-to-end extensibility in the programming model, major cloud qualities like scalability and upgrade stable APIs, and many more.
 
 
 
@@ -47,9 +47,9 @@ With ABAP Cloud, you can cover a variety of use cases for different scenarios. T
 
 With ABAP Cloud, you can develop transactional and analytical apps. Transactional applications have transactional characteristics to create, update or delete data records whereas analytical applications only read and display data in charts or dashboards.
 
-All applications and services developed with ABAP Cloud are by default multitenant enabled. Partners can use the SAP BTP, ABAP environment Software-as-a-Service tooling to easily built, deploy and operate Software-as-a-Service solution on their own.
+All applications and services developed with ABAP Cloud are by default multitenant enabled. Partners can use the [SAP BTP, ABAP environment](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/abap-environment) Software-as-a-Service tooling to easily build, deploy, and operate Software-as-a-Service solutions on their own.
 
-Integration services enable the system-to-system communication for different protocols. In ABAP Cloud, integration services can be used for process integration or data integration. With process integration the communication is structured along a predefined business process like, for example, order-to-cash. Data integration in contrast focuses on transferring raw data without any relation to a business process.
+Integration services enable system-to-system communication for different protocols. In ABAP Cloud, integration services can be used for process integration or data integration. With process integration, the communication is structured along a predefined business process like, for example, order-to-cash. Data integration in contrast focuses on transferring raw data without any relation to a business process.
 
 **Related Information**  
 
