@@ -14,7 +14,7 @@ To build a transactional application, you define data models and implement busin
 
 ## Develop Behavior
 
-With RAP the standard create, update and delete operations must only be specified in the behavior definition to obtain a ready-to-run business object. In addition, the provisioning and handling of the transactional buffer is automatically done for you. The technical implementation aspects are taken over by the managed RAP BO provider. The interaction phase and the save sequence are implemented generically. For more information, see [Business Object Implementation Types](https://help.sap.com/docs/abap-cloud/abap-rap/business-object-implementation-types?version=abap_cross_product).
+With RAP the standard create, update, and delete operations must only be specified in the behavior definition to obtain a ready-to-run business object. In addition, the provisioning and handling of the transactional buffer is automatically done for you. The technical implementation aspects are taken over by the managed RAP BO provider. The interaction phase and the save sequence are implemented generically. For more information, see [Business Object Implementation Types](https://help.sap.com/docs/abap-cloud/abap-rap/business-object-implementation-types?version=abap_cross_product).
 
 The application developer can then focus on business logic that is implemented using actions, validations, determinations, and user interaction. To define which consumers are allowed to read or change data of a business object, RAP offers an authorization concept to restrict access to the business object.
 
@@ -39,7 +39,7 @@ The application developer can then focus on business logic that is implemented u
 
 You can define authorization checks for update operations like creates or custom operations like actions for a business object on global and instance level. For more information, see [Authorization Control](https://help.sap.com/docs/abap-cloud/abap-rap/authorization-control?version=abap_cross_product).
 
-If your service is to be consumed by other applications, you can define a privileged mode to allow consumers to circumvent authorization checks. For this the consumer must implement the respective checks in their authorization control implementation. For more information, see [RAP – with priviledged mode](https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/index.htm?file=abenbdl_privileged_mode.htm).
+If your service is to be consumed by other applications, you can define a privileged mode to allow consumers to circumvent authorization checks. For this, the consumer must implement the respective checks in their authorization control implementation. For more information, see [RAP – with privileged mode](https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/index.htm?file=abenbdl_privileged_mode.htm).
 
 
 
@@ -60,7 +60,7 @@ Concurrency control prevents concurrent and interfering database access of diffe
 
 ## Develop User Interfaces
 
-UIs create an intuitive and user-friendly interface for users to interact with the business processes. In ABAP Cloud, SAP Fiori ensures a consistent user experience when developing UIs. SAP Fiori applications can be developed for OData services that are exposed as a UI service. SAP Fiori applications, following the SAP Fiori design principles, can be built using a combination of SAPUI5 and SAP Fiori elements. For more information on SAP Fiori Elements and SAPUI5, see [Developing Apps with SAP Fiori Elements](https://sapui5.hana.ondemand.com/#/topic/03265b0408e2432c9571d6b3feb6b1fd) and [SAPUI5](https://help.sap.com/docs/SAPUI5?version=External).
+UIs create an intuitive and user-friendly interface for users to interact with the business processes. In ABAP Cloud, SAP Fiori ensures a consistent user experience when developing UIs. SAP Fiori applications can be developed for OData services that are exposed as UI services. SAP Fiori applications, following the SAP Fiori design principles, can be built using a combination of SAPUI5 and SAP Fiori elements. For more information on SAP Fiori Elements and SAPUI5, see [Developing Apps with SAP Fiori Elements](https://sapui5.hana.ondemand.com/#/topic/03265b0408e2432c9571d6b3feb6b1fd) and [SAPUI5](https://help.sap.com/docs/SAPUI5?version=External).
 
 While SAPUI5 is a development framework that allows you to build freestyle front-end applications, SAP Fiori elements is a framework that includes commonly used floor plan templates.
 
@@ -70,11 +70,11 @@ Back-end features that are closely related to the UI like draft, feature control
 
 -   Draft
 
-    Applications with draft capabilities let users save their changes in the system and resume their work later, even on a different device, or after an unplanned shutdown. We recommend that you use a draft for your UI use cases to improve the user experience. RAP business objects need to be draft enabled. See [Draft](https://help.sap.com/docs/abap-cloud/abap-rap/draft?version=abap_cross_product).
+    Applications with draft capabilities let users save their changes in the system and resume their work later, even on a different device, or after an unplanned shutdown. We recommend that you use a draft for your UI use cases to improve the user experience. RAP business objects need to be draft-enabled. See [Draft](https://help.sap.com/docs/abap-cloud/abap-rap/draft?version=abap_cross_product).
 
 -   Feature Control
 
-    You can provide information on how data should be displayed for consumption in an SAP Fiori UI, for example if fields are mandatory or read-only. See [Feature Control](https://help.sap.com/docs/abap-cloud/abap-rap/feature-control?version=abap_cross_product).
+    You can provide information on how data should be displayed for consumption in an SAP Fiori UI, for example, if fields are mandatory or read-only. See [Feature Control](https://help.sap.com/docs/abap-cloud/abap-rap/feature-control?version=abap_cross_product).
 
 -   Side Effects
 
@@ -94,7 +94,7 @@ For more information about UI development, see:
 
 ## Develop Events or Include Reuse Services
 
-With RAP, you can implement asynchronous process integration using remote or local events. Events allow you to implement a publisher – subscriber pattern with different consumers. Reuse services offer general capabilities that are required by multiple services, applications and business areas. You can choose from a variety of reuse services that are ready-to-run, ranging from applications jobs over logging, forms, and emails up to change documents or the workflow.
+With RAP, you can implement asynchronous process integration using remote or local events. Events allow you to implement a publisher – subscriber pattern with different consumers. Reuse services offer general capabilities that are required by multiple services, applications, and business areas. You can choose from a variety of reuse services that are ready-to-run, ranging from applications jobs over logging, forms, and emails up to change documents or the workflow.
 
 For more information, see [Business Events for Process Integration](https://help.sap.com/docs/btp/sap-abap-restful-application-programming-model/creating-rap-business-events?version=Cloud).
 
@@ -104,7 +104,7 @@ For more information, see [Business Events for Process Integration](https://help
 
 ## Define or Develop Extensions for a RAP Business Object
 
-RAP offers the possibility to develop semantically rich, upgrade-safe, and lifecycle-stable extensions for business objects. An original business object developed by an extensibility-enabler is extended with additional functionality to extend the functional scope of the original RAP business object. Using well-defined extension points enabled in the original business object, an extension provider can then extend the original data model and behavior in accordance with the business requirements or create their own business service based on a RAP business object interface.
+RAP offers the possibility to develop semantically rich, upgrade-safe, and lifecycle-stable extensions for business objects. An original business object developed by an extensibility-enabler is extended with additional functionality to extend the functional scope of the original RAP business object. Using well-defined extension points enabled in the original business object, an extension provider can then extend the original data model and behavior in accordance with the business requirements or create their own business service based on an RAP business object interface.
 
 ****
 
@@ -287,7 +287,7 @@ For an example, see:
 
 ### Develop Integration Tests for Transactional Services
 
-With the OData Client Proxy and the RAP business object TDF, you can implement integration tests to test use cases via EML and OData, where multiple functional units are involved. Reading or creating instances from outside, for example, make use of the whole RAP application and involve dependent operations, such as determinations and validations. The Integration tests validate whether the interaction between the involved functional units works as expected.
+With the OData Client Proxy and the RAP business object TDF, you can implement integration tests to test use cases via EML and OData, where multiple functional units are involved. Reading or creating instances from outside, for example, makes use of the whole RAP application and involves dependent operations, such as determinations and validations. The Integration tests validate whether the interaction between the involved functional units works as expected.
 
 For an example, see:
 
