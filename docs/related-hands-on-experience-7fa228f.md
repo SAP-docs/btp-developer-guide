@@ -46,7 +46,7 @@ When going through the sample application, you can choose from two options to tr
     -   Get started with a variety of learning materials, such as tutorials and missions
 
 
-    See [Start your free 90-days trial](https://www.sap.com/bulgaria/registration/trial.908cb719-0e03-421c-a091-daca045f0acc.html).
+    See [Start your free 90-days trial](https://www.sap.com/registration/trial.908cb719-0e03-421c-a091-daca045f0acc.html).
 
 
 Before you start using the services or runtimes, you need to manage your entitlements and add quotas to your subaccounts. See [Entitlements and Quotas](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/00aa2c23479d42568b18882b1ca90d79.html "When you purchase an enterprise account, you’re entitled to use a specific set of resources, such as the amount of memory that can be allocated to your applications.") :arrow_upper_right:.
