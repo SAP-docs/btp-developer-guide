@@ -4,7 +4,7 @@
 
 You can benefit from the comprehensive development guidance provided in the SAP BTP Developer’s Guide. This guidance serves as a roadmap, helping you navigate through the complexities of the development process. It offers detailed instructions, best practices, and recommendations that can enhance your proficiency and efficiency as a developer. By following this guidance, you can avoid common pitfalls, streamline your workflow, and produce higher quality code. Furthermore, it can assist in fostering a better understanding of the underlying principles and methodologies, thus elevating your overall skill set and knowledge base.
 
-In addition to the development guidance, there are also sample applications that can serve as a practical learning tool. These applications are designed to demonstrate the implementation of the recommendations in real-world business scenarios. By studying these sample applications, you can see firsthand how the guidance can be applied and what the outcomes look like. They provide tangible examples that bridge theory and practice, making it easier for you to grasp and apply the concepts. This hands-on approach not only supplements your learning experience but also prepares you better for your own development projects.
+In addition to the development guidance, there are also sample applications that together can serve as a practical learning tool. These applications are designed to demonstrate the implementation of the recommendations in real-world business scenarios. By studying these sample applications, you can see firsthand how the guidance can be applied and what the outcomes look like. They provide tangible examples that bridge theory and practice, making it easier for you to grasp and apply the concepts. This hands-on approach not only supplements your learning experience but also prepares you better for your own development projects.
 
 
 
@@ -24,7 +24,7 @@ The exercises are based on the Travel example of the [Flight Reference Scenario]
 
 The Incident Management sample application is a showcase of the SAP Cloud Application Programming Model \(CAP\) and adheres to the development recommendations set out in the SAP BTP Developer’s Guide. Best practices are documented in step-by-step tutorials based on the Incident Management application for learning how to develop, deploy, and operate a full-stack application using CAP and SAP Fiori. The tutorials also show how to use a set of important SAP BTP services in a CAP application.
 
-When going through the sample application, you can use two options to try its services and runtimes before you purchase them:
+When going through the sample application, you can choose from two options to try its services and runtimes before you purchase them:
 
 -   Free tier for SAP BTP is best for productive projects:
 
@@ -46,7 +46,7 @@ When going through the sample application, you can use two options to try its se
     -   Get started with a variety of learning materials, such as tutorials and missions
 
 
-    See [Start you free 90-days trial](https://www.sap.com/bulgaria/registration/trial.908cb719-0e03-421c-a091-daca045f0acc.html).
+    See [Start your free 90-days trial](https://www.sap.com/registration/trial.908cb719-0e03-421c-a091-daca045f0acc.html).
 
 
 Before you start using the services or runtimes, you need to manage your entitlements and add quotas to your subaccounts. See [Entitlements and Quotas](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/00aa2c23479d42568b18882b1ca90d79.html "When you purchase an enterprise account, you’re entitled to use a specific set of resources, such as the amount of memory that can be allocated to your applications.") :arrow_upper_right:.
@@ -54,7 +54,7 @@ Before you start using the services or runtimes, you need to manage your entitle
 Note that if you want to try out services for free, you need to select free tier service plans, if available. For a list of free services, check the Service Catalog at [SAP Discovery Center](https://discovery-center.cloud.sap/servicessearch/Free%20Tier/).
 
 > ### Note:  
-> There is also a free plan for the SAP BTP, Cloud Foundry runtime and SAP BTP, Kyma runtime. To use the free plan of these runtimes, you have to configure the entitlements in the SAP BTP cockpit. You have one free plan for each runtime per global account and you can assign it to one subaccount at a time.
+> There is also a free plan for the SAP BTP, Cloud Foundry runtime and SAP BTP, Kyma runtime. To use the free plans for these runtimes, you have to configure the entitlements in the SAP BTP cockpit. You have one free plan for each runtime per global account and you can assign it to one subaccount at a time.
 
 **Related Information**  
 
