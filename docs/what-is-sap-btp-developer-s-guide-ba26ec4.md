@@ -29,7 +29,7 @@ The SAP BTP Developer’s Guide recommends the ABAP Cloud and SAP Cloud Applicat
 
 ![](images/SAP_BTP_Developer_s_Guide_Overview_61b7816.png)
 
-The SAP BTP Developer’s Guide complements existing documentation, such as the Best Practices for SAP BTP guide, by providing guidance concerning the recommended process to implement business applications on SAP BTP especially for developers. See [Best Practices for SAP BTP](https://help.sap.com/docs/btp/best-practices/best-practices-for-sap-btp?version=Cloud).
+The SAP BTP Developer’s Guide complements existing documentation, such as the Best Practices for SAP BTP guide, by providing guidance concerning the recommended process to implement business applications on SAP BTP, especially for developers. See [Best Practices for SAP BTP](https://help.sap.com/docs/btp/best-practices/best-practices-for-sap-btp?version=Cloud).
 
 
 
@@ -47,9 +47,9 @@ ABAP Cloud provides tools and techniques that ensure cloud qualities, promotes n
 
 ## SAP Cloud Application Programming Model
 
-The SAP Cloud Application Programming Model \(CAP\) is a framework of languages, libraries, and tools for building enterprise-grade services and applications. It supports the most widely-adopted languages, which are: Java \(with Spring Boot\), JavaScript and TypeScript \(with Node.js\). CAP guides developers along a path of proven best practices and a great wealth of out-of-the-box solutions to recurring tasks.
+The SAP Cloud Application Programming Model \(CAP\) is a framework of languages, libraries, and tools for building enterprise-grade services and applications. It supports the most widely adopted languages, which are: Java \(with Spring Boot\), JavaScript, and TypeScript \(with Node.js\). CAP guides developers along a path of proven best practices and a great wealth of out-of-the-box solutions to recurring tasks.
 
-CAP-based projects benefit from a primary focus on domain. Instead of delving into overly technical disciplines, CAP focus on accelerated development and safeguarding investments in a world of rapidly changing cloud technologies.
+CAP-based projects benefit from a primary focus on the domain. Instead of delving into overly technical disciplines, CAP focuses on accelerated development and safeguarding investments in a world of rapidly changing cloud technologies.
 
 Here are some of the benefits that come with the SAP Cloud Application Programming Model \(CAP\):
 

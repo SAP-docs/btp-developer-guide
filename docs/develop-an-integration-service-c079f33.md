@@ -4,7 +4,7 @@
 
 Integration services allow you to create connections to other systems using different protocols. This enables seamless communication and data exchange between services and applications, as well as the ability to build end-to-end business processes across system boundaries. ABAP Cloud supports integration with various integration partners such as SAP cloud products, SAP BTP services, customer extensions, and external services.
 
-There are SAP managed integration scenarios for out-of-the-box integration, for example, to integrate the SAP BTP, ABAP environment with other SAP products like SAP S/4HANA Cloud, public edition. In addition, you can expose and consume custom integration services to implement your own integration use cases. For an overview of SAP-managed integration scenarios, see [Overview of Communication Scenarios Managed by SAP](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/overview-of-communication-scenarios-managed-by-sap).
+There are SAP-managed integration scenarios for out-of-the-box integration, for example, to integrate the SAP BTP, ABAP environment with other SAP products like SAP S/4HANA Cloud, public edition. In addition, you can expose and consume custom integration services to implement your own integration use cases. For an overview of SAP-managed integration scenarios, see [Overview of Communication Scenarios Managed by SAP](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/overview-of-communication-scenarios-managed-by-sap).
 
 The following sections focus on exposing and consuming custom integration services and event-based integration for process and data integration.
 
@@ -14,11 +14,11 @@ The following sections focus on exposing and consuming custom integration servic
 
 ## Process and Data Integration
 
-ABAP Cloud offers various possibilities to integrate with other systems using the OData, SOAP, HTTP, RFC, and SQL protocol. In addition, you can use the SAP Event Mesh to expose and consume business events:
+ABAP Cloud offers various possibilities to integrate with other systems using the OData, SOAP, HTTP, RFC, and SQL protocols. In addition, you can use the SAP Event Mesh to expose and consume business events:
 
--   Integration Services Exposure: The development model for exposing integration services depends on the respective protocol. OData, SQL and business events interfaces can be created using the RAP programming model. The domain-specific logic of SOAP, HTTP, and RFC services is implemented with ABAP.
+-   Integration Services Exposure: The development model for exposing integration services depends on the respective protocol. OData, SQL, and business events interfaces can be created using the RAP programming model. The domain-specific logic of SOAP, HTTP, and RFC services is implemented with ABAP.
 
--   Integration Service Consumption: The consumption of services and events from other systems is simplified by using metadata to generate an Event Consumption Model or a Service Consumption Model. Service Consumptions Models are available for OData, SOAP, RFC, and business events. For HTTP and RFC, you can define the consumption requests directly in ABAP.
+-   Integration Service Consumption: The consumption of services and events from other systems is simplified by using metadata to generate an Event Consumption Model or a Service Consumption Model. Service Consumption Models are available for OData, SOAP, RFC, and business events. For HTTP and RFC, you can define the consumption requests directly in ABAP.
 
 
 ![](images/Develop_an_Integration_Service_f020fb8.png)
@@ -34,7 +34,7 @@ ABAP Cloud supports two main integration use cases:
     Structures the communication on app or service level along a predefined business process, for example, order-to-cash. For process integration, the implemented domain-specific logic for a service is considered. The communication between the communication partners for point-to-point integration is bidirectional, meaning that information is exchanged in both directions. There are both synchronous and asynchronous process integration patterns, for example, event-based integration follows an asynchronous approach.
 
 
-ABAP Cloud offers several different protocols for integrations such as OData, SOAP, Remote Function Calls \(RFCs\), HTTP, SQL, and business events for asynchronous integration. This ensures compatibility with between SAP products or third-party services who usually expose a functionality only via a dedicated protocol. The different protocols have different advantages depending on your use case. For example, business events for asynchronous communication require a dedicated integration pattern.
+ABAP Cloud offers several different protocols for integrations such as OData, SOAP, Remote Function Calls \(RFCs\), HTTP, SQL, and business events for asynchronous integration. This ensures compatibility between SAP products or third-party services which usually expose a functionality only via a dedicated protocol. The different protocols have different advantages depending on your use case. For example, business events for asynchronous communication require a dedicated integration pattern.
 
 For more information, see:
 
@@ -59,7 +59,7 @@ ABAP Cloud enables the exposure of business services to other systems via inboun
 
 -   Set up communication management
 
-    Prepare administrative setup for the administrator by creating, for example a communication scenario.
+    Prepare administrative setup for the administrator by creating, for example, a communication scenario.
 
 
 
@@ -86,7 +86,7 @@ For more information, see [Develop Web APIs](https://help.sap.com/docs/abap-cl
 
 ## Develop HTTP Services
 
-You can develop an HTTP service by creating an HTTP service object. The required handler class to handle the http request is automatically created with the HTTP service object. The interface IF\_HTTP\_SERVICE\_EXTENSION with HTTP request/response parameters, enables you to build an HTTP service with full flexibility.
+You can develop an HTTP service by creating an HTTP service object. The required handler class to handle the HTTP request is automatically created with the HTTP service object. The interface IF\_HTTP\_SERVICE\_EXTENSION with HTTP request/response parameters enables you to build an HTTP service with full flexibility.
 
 For more information, see:
 
@@ -142,7 +142,7 @@ Not all data that is consumed in ABAP Cloud is read from the SAP HANA database. 
 
 -   Implement the business service consumption
 
-    Create a proxy class to create the request and processing the response by the communication partner.
+    Create a proxy class to create the request and process the response by the communication partner.
 
 -   Set up the communication management
 
@@ -163,7 +163,7 @@ To simplify the implementation of a remote call, you can create a service consum
 
 ## Consume OData Services
 
-The OData client proxy is the interface between the client \(consumer of a service\) and the service implementation \(data provisioning\) in the OData service consumption in ABAP. The OData client proxy enables you to create an OData typed proxy to run OData requests in your ABAP implementation.
+The OData client proxy is the interface between the client \(consumer of a service\) and the service implementation \(data provisioning\) in the OData service consumption in ABAP. The OData client proxy enables you to create an OData-typed proxy to run OData requests in your ABAP implementation.
 
 For more information, see [OData Services](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/odata-services).
 
@@ -228,9 +228,9 @@ ABAP Cloud supports complex scenarios, where the relevant integration partner is
 
 ## Develop Event-Based Integration
 
-Event-driven architecture enables asynchronous communication between an event provider and an event consumer in use cases where no direct response from the event consumer is required. Events represent a significant change of state that is relevant for follow-up processes, for example if a new travel is created and you want to enable consuming applications to trigger additional workflows.
+Event-driven architecture enables asynchronous communication between an event provider and an event consumer in use cases where no direct response from the event consumer is required. Events represent a significant change of state that is relevant for follow-up processes, for example, if a new travel is created and you want to enable consuming applications to trigger additional workflows.
 
-This chapter focuses on remote business events. Local business events are based on the same design time, but are consumed using an event handler class that is set up as a class pool, similar to a behavior pool. For more information about consuming local events, see [Local Consumption](https://help.sap.com/docs/abap-cloud/abap-rap/business-event-consumption?version=abap_cross_product).
+This chapter focuses on remote business events. Local business events are based on the same design time but are consumed using an event handler class that is set up as a class pool, similar to a behavior pool. For more information about consuming local events, see [Local Consumption](https://help.sap.com/docs/abap-cloud/abap-rap/business-event-consumption?version=abap_cross_product).
 
 
 
@@ -238,7 +238,7 @@ This chapter focuses on remote business events. Local business events are based 
 
 ## Expose Business Events
 
-The development of business events is natively integrated with the ABAP RESTful Application Programming Model. An event, that is defined in a RAP behavior definition, can be exposed to remote consumers by assigning an event binding. The event binding defines the topic of the event.
+The development of business events is natively integrated with the ABAP RESTful Application Programming Model. An event, that is defined in an RAP behavior definition, can be exposed to remote consumers by assigning an event binding. The event binding defines the topic of the event.
 
 The administrator can connect the system to an SAP Event Mesh instance and expose this event topic in the Maintain Event Channel Binding application. Potential integration partners can then consume this event topic from the Event Mesh.
 
@@ -257,7 +257,7 @@ For more information, see:
 
 ## Extend Business Events
 
-You can customize the payload of an event with derived events. A derived event is defined with reference to an already implemented event and allows the definition of a payload that deviates from the one of the referenced business events. When the referenced event is raised, the derived event is raised as well, and the custom payload is applied. For more information, see [Derived Business Events](https://help.sap.com/docs/abap-cloud/abap-rap/derived-business-events).
+You can customize the payload of an event with derived events. A derived event is defined with reference to an already implemented event and allows the definition of a payload that deviates from one of the referenced business events. When the referenced event is raised, the derived event is raised as well, and the custom payload is applied. For more information, see [Derived Business Events](https://help.sap.com/docs/abap-cloud/abap-rap/derived-business-events).
 
 
 
@@ -265,9 +265,9 @@ You can customize the payload of an event with derived events. A derived event
 
 ## Consume Business Events
 
-To consume events from other systems remotely, you can generate an Event Consumptions Model based on the AsyncAPI metadata of the event. The Event Consumption Model generates a typed handler class to process the event.
+To consume events from other systems remotely, you can generate an Event Consumption Model based on the AsyncAPI metadata of the event. The Event Consumption Model generates a typed handler class to process the event.
 
-To simplify the tasks of the administrator, multiple Event Consumption Models can be bundled into a communication scenario. The administrator can then create a communication arrangement to link a channel to an SAP Event Mesh with a communication scenario, so that the list of event types is processed by a communication user.
+To simplify the tasks of the administrator, multiple Event Consumption Models can be bundled into a communication scenario. The administrator can then create a communication arrangement to link a channel to an SAP Event Mesh with a communication scenario so that the list of event types is processed by a communication user.
 
 For more information, see:
 

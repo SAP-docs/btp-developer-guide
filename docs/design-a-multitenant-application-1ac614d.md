@@ -31,9 +31,9 @@ You have to classify database tables according to their content. There are the f
 
     Database tables for tenant content must be client-dependent. This means that the first field of the table must be of datatype “CLNT”. We recommend using the inline declaration „abap.clnt“.
 
-    Only the content of client-dependent “C” and “A” tables is considered during tenant copy and tenant move. Content of client-independent tables which are not delivered from the development system and “L” tables are lost during tenant lifecycle processes such as tenant move.
+    Only the content of client-dependent “C” and “A” tables is considered during tenant copy and tenant move. Content of client-independent tables that are not delivered from the development system and “L” tables are lost during tenant lifecycle processes such as tenant move.
 
-    During tenant delete, the content of all client-dependent tables is removed.
+    During tenant deletion, the content of all client-dependent tables is removed.
 
     The delivery class must be “C”, “A”, or “L”.
 
@@ -43,7 +43,7 @@ You have to classify database tables according to their content. There are the f
 
     Store data that is defined by the service provider and not specific for any tenant in a client-independent “S” table. Define the content in the respective development system and export it as TABU entries via a development transport request. The content is considered as code and imported like other development artifacts into subsequent systems such as the provider system.
 
-    Access to tables and all further ABAP Cloud Syntax is by default tenant aware.
+    Access to tables and all further ABAP Cloud Syntax is by default tenant-aware.
 
 
 See [Multitenancy Development Guideline](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/multitenancy-development-guideline).
