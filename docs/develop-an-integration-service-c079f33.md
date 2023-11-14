@@ -86,7 +86,7 @@ For more information, see [Develop Web APIs](https://help.sap.com/docs/abap-cl
 
 ## Develop HTTP Services
 
-You can develop an HTTP service by creating an HTTP service object. The required handler class to handle the HTTP request is automatically created with the HTTP service object. The interface IF\_HTTP\_SERVICE\_EXTENSION with HTTP request/response parameters enables you to build an HTTP service with full flexibility.
+You can develop an HTTP service by creating an HTTP service object. The required handler class to handle the HTTP request is automatically created with the HTTP service object. The interface IF\_HTTP\_SERVICE\_EXTENSION with HTTP request/response parameters, enables you to build an HTTP service with full flexibility.
 
 For more information, see:
 

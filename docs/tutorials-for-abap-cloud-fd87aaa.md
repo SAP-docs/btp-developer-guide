@@ -12,7 +12,7 @@ The exercises are based on the Travel example of the [Flight Reference Scenario]
 
 ## Analytical Scenario
 
-The analytical scenario shows the end-to-end development of an analytical application. It consists of a business service exposing an analytical query and a report built with SAP Analytics Cloud. The analytical report can be used to analyze complex situations and freely interact with large amounts of data in real-time.
+The analytical scenario shows the end-to-end development of an analytical application. It consists of a business service exposing an analytical query and a report built with SAP Analytics Cloud. The analytical report can be used to analyze complex situations and freely interact with large amounts of data in real time.
 
 The analytical scenario is provided in the form of tutorials with beginner and intermediate experience levels.
 
@@ -22,7 +22,7 @@ The analytical scenario is provided in the form of tutorials with beginner and i
 
 ## Transactional Scenario
 
-The transactional scenario shows the end-to-end development of a transactional SAP Fiori elements list report application. It consists of an OData-based business service built with RAP and an SAP Fiori elements-based UI. It also shows the deployment of the SAP Fiori application in the ABAP environment and its integration in the local SAP Fiori Launchpad for SAP BTP, ABAP Environment.
+The transactional scenario shows the end-to-end development of a transactional SAP Fiori elements list report application. It consists of an OData-based business service built with RAP and an SAP Fiori elements-based UI. It also shows the deployment of the SAP Fiori application in the ABAP environment and its integration in the local SAP Fiori launchpad for SAP BTP, ABAP environment.
 
 You will develop a simple, transactional list report application, the Travel Processing application, that is used by a department responsible for processing worldwide travel for multiple agencies.
 

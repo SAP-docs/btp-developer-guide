@@ -43,7 +43,7 @@ You have to classify database tables according to their content. There are the f
 
     Store data that is defined by the service provider and not specific for any tenant in a client-independent “S” table. Define the content in the respective development system and export it as TABU entries via a development transport request. The content is considered as code and imported like other development artifacts into subsequent systems such as the provider system.
 
-    Access to tables and all further ABAP Cloud Syntax is by default tenant-aware.
+    Access to tables and all further ABAP Cloud Syntax is by default tenant aware.
 
 
 See [Multitenancy Development Guideline](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/multitenancy-development-guideline).

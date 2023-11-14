@@ -66,3 +66,41 @@ Here are some of the benefits that come with the SAP Cloud Application Programmi
 -   Latest UX and themes
 
 
+
+
+<a name="loioba26ec41130d4835aef2265ad3d3704e__section_mjy_2kj_fzb"/>
+
+## SAP Build Code
+
+SAP Build Code offers an AI-powered cloud development environment specifically tailored for SAP Application Programming Model \(CAP\) and SAPUI5 developers and supporting JavaScript, TypeScript and Java.
+
+By seamlessly integrating coding, testing, and application management, it streamlines the application development process on SAP BTP. SAP Build Code combines SAP Business Application Studio with the most essential services and SDKs on SAP BTP.
+
+With the integration of Joule, the innovative AI copilot of SAP, SAP Build Code enables automatic generation of application code, data models, services, and sample data.
+
+Using SAP Build Code ensures adherence to the best practices and guidance outlined in the SAP BTP Developer's Guide.
+
+
+
+<a name="loioba26ec41130d4835aef2265ad3d3704e__section_mfx_qws_zxb"/>
+
+## Contribute to the SAP BTP Developer’s Guide
+
+> ### Tip:  
+> The English version of this guide is open for contributions and feedback using GitHub. This allows you to get in contact with responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on SAP Help Portal:
+> 
+> -   *Feedback* \> *Create issue*: Provide feedback about a documentation page. This option opens an issue on GitHub.
+> 
+> -   *Feedback* \> *Edit page*: Contribute to a documentation page. This option opens a pull request on GitHub.
+> 
+> 
+> You need a GitHub account to use these options.
+> 
+> More information:
+> 
+> -   [Contribution Guidelines](https://help.sap.com/docs/open-documentation-initiative/contribution-guidelines/readme.html)
+> 
+> -   [Introduction Video](https://www.youtube.com/watch?v=WJ0oarMlVW4)
+> 
+> -   [Introduction Blog Post](https://blogs.sap.com/2021/11/29/sap-btp-documentation-goes-github-new-collaboration-process/)
+

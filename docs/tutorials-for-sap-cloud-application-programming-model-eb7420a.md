@@ -39,7 +39,7 @@ The [Develop a Full-Stack CAP Application](https://developers.sap.com/group.cap-
 
 -   Setting up the development environment. See [Set Up SAP Business Application Studio](https://developers.sap.com/tutorials/set-up-bas.html).
 
--   Building a CAP application with SAP Fiori Elements user interface and a custom logic. See:
+-   Building a CAP application with SAP Fiori elements user interface and a custom logic. See:
 
     -   [Build a CAP Application](https://developers.sap.com/tutorials/build-cap-app.html)
 
@@ -102,7 +102,7 @@ The [Deploy a Full-Stack CAP Application in SAP BTP, Kyma Runtime](https://devel
 -   Using SAP Build Work Zone, standard edition. See [Integrate Your Application with SAP Build Work Zone, Standard Edition](https://developers.sap.com/tutorials/integrate-with-work-zone.html).
 
 
-Additionally, you can also set up a CI/CD pipeline for the application deployed in SAP BTP, Kyma runtime. See[Set Up CI/CD Pipeline](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/kyma-cicd/README.md).
+Additionally, you can also set up a CI/CD pipeline for the application deployed in SAP BTP, Kyma runtime. See [Set Up CI/CD Pipeline](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/kyma-cicd/README.md).
 
 
 

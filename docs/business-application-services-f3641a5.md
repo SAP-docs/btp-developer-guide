@@ -107,16 +107,16 @@ Consider the complete innovation lifecycle that includes \(beside others\) Desig
 <tr>
 <td valign="top">
 
-SAP Cloud Transport Management
+[SAP Cloud Transport Management](https://help.sap.com/docs/cloud-transport-management/sap-cloud-transport-management/what-is-sap-cloud-transport-management?version=Cloud)
 
-Optionally complement your pipeline with an automated hand-over of your qualified changes into a standardized, enterprise-ready change management process. For changes in SAP BTP, Cloud Foundry runtime, the pipeline provided by SAP Continuous Integration and Delivery service allows to trigger out-of-the-box a transport in SAP Cloud Transport Management service.
+Optionally complement your pipeline with an automated handover of your qualified changes into a standardized, enterprise-ready change management process. For changes in SAP BTP, Cloud Foundry runtime, the pipeline provided by SAP Continuous Integration and Delivery service allows to trigger out-of-the-box a transport in SAP Cloud Transport Management service.
 
 With other CI/CD solutions, you can also trigger such a transport via project ‘Piper’. SAP Cloud Transport Management allows you to centrally define delivery landscapes and to then handle the transport of development and application-specific content between the subaccounts defined in this landscape. With this, you can add additional control for the propagation of your changes especially towards your production environments, such as by defining who is allowed to come up and handle changes in which environment. Also, you gain the option to apply existing or new change management processes, such as being offered by change and deployment management capabilities of SAP Cloud ALM – for example, to centrally synchronize the delivery of SAP BTP changes with changes from other environments, as part of hybrid applications. You can also use SAP Cloud Transport Management to transport your changes without pipeline.
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" rowspan="2">
 
 Persistence
 
@@ -132,11 +132,20 @@ Use HANA Data Lake Files as Object Storage.
 Consider compliance features like such as Audit Log, Cryptography or Customer Managed Keys that SAP HANA Cloud offers.
 
 </td>
-<td valign="top">
+<td valign="top" rowspan="2">
 
 [SAP HANA Cloud](https://help.sap.com/docs/hana-cloud/sap-hana-cloud-overview-guide/sap-hana-cloud-overview-guide)
 
 SAP BTP, ABAP environment comes with an own ABAP-managed SAP HANA Cloud instance. Static resizing of the SAP HANA Cloud instance is supported. ABAP dictionary tables can be tagged to make use of the SAP HANA Native Storage Extensions; also, database indexes \(like unique secondary indexes and fuzzy search indexes\) and Dynamic View Caches can be defined. Furthermore, simple Database Partitioning based on primary keys is possible. Access to the SAP HANA instance data is only supported via the ABAP layer, for example, by using ABAP SQL, natively via ABAP-managed database procedures, and the ABAP SQL Service for external clients.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+[Object Store on SAP BTP](https://help.sap.com/docs/object-store/object-store-service-on-sap-btp/what-is-object-store)
+
+Object Store service on SAP BTP lets you store and manage objects, which involves creation, upload, download, and deletion. This service is specific to the Infrastructure-as-a-Service layer such as Azure Blob Storage, Amazon Web Services, and Google Cloud Platform.
 
 </td>
 </tr>
@@ -357,25 +366,22 @@ SAP Build Work Zone, standard edition offers a unified end-user experience acros
 </td>
 </tr>
 <tr>
-<td valign="top" rowspan="5">
+<td valign="top" rowspan="4">
 
 Integration
 
 </td>
 <td valign="top" colspan="2">
 
+[SAP Event Mesh](https://help.sap.com/docs/event-mesh/event-mesh/what-is-sap-event-mesh?version=Cloud)
+
 [SAP Event Broker for SAP cloud applications](https://help.sap.com/docs/event-broker/event-broker-service-guide/what-is?locale=en-US%3Fversion%3DCloud&version=Cloud)
 
-Use Event Broker for distributing business events between SAP Cloud applications, including SAP BTP applications.
+[SAP Integration Suite, advanced event mesh](https://help.sap.com/docs/SAP_ADVANCED_EVENT_MESH/649cec0ae9ac49059564a1870fb8a1b7/0d4bcd5a2be744688039160b9bb289ae.html?version=Cloud)
 
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2">
+SAP Event Mesh can be used to distribute events between selected SAP cloud and on-premise applications and third-party applications.
 
-[SAP Integration Suite, Advanced Event Mesh](https://help.sap.com/docs/SAP_ADVANCED_EVENT_MESH/649cec0ae9ac49059564a1870fb8a1b7/0d4bcd5a2be744688039160b9bb289ae.html?version=Cloud)
-
-Integrate third-party applications through SAP Integration Suite.
+SAP Event Broker for SAP cloud applications and SAP Integration Suite, advanced event mesh are currently not supported by CAP and ABAP Cloud.
 
 </td>
 </tr>
@@ -393,9 +399,11 @@ SAP Master Data Integration service acts as the central master data hub. It uses
 
 [SAP Integration Suite](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite?version=CLOUD)
 
-Use SAP Integration Suite for mediated data or process integration.
+Use the Cloud Integration capability of SAP Integration Suite for mediated data or process integration, espially if complex integration flows, transformations or dedicated protocols are required. Besides mediated application-to-application integration, Cloud Integration usage is recommended for business-to-business and business-to-governance processes.
 
-SAP Integration Suite's API Management allows you to easily enable your developer community with governed, secure and policy-compliant access to all your APIs, events and integrations. Most of these APIs are custom APIs and third-party APIs.
+The API Management capability of SAP Integration Suite allows you to easily enable your developer community with governed, secure, and policy-compliant access to all your APIs, events, and integrations.
+
+Graph is a recent addition to the API Management capability of SAP Integration Suite. Graph is a powerful semantic API mediation, combining and exposing the data from diverse systems in a complex enterprise landscape as connected data graphs. The data graphs are accessed via a single, curated, and uniform data-as-a-service API and make API consumption much easier.
 
 </td>
 </tr>
@@ -409,19 +417,32 @@ Cloud Integration Automation service provides you a guided workflow to integrate
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" rowspan="2">
 
 Observability
 
 </td>
 <td valign="top">
 
-[SAP Alert Notification service for SAP BTP](https://help.sap.com/docs/alert-notification/sap-alert-notification-for-sap-btp/what-is-sap-alert-notification-service-for-sap-btp?version=Cloud)
+[SAP Cloud ALM](https://help.sap.com/docs/link-disclaimer?site=https%3A%2F%2Fsupport.sap.com%2Fen%2Falm%2Fsap-cloud-alm.html)
 
-Local expert tool that allows you to subscribe to events from the platform – such as from used services, from your custom-built apps, or from the infrastructure – and to consume them via your channel of choice \(such as by receiving notifications via email or in your preferred chat application\). Can be integrated into central alerting of SAP Cloud ALM. See [Operate](operate-f7f2977.md).
+SAP Cloud ALM helps you to implement and operate intelligent cloud and hybrid business solutions.
+
+For your CAP-based applications on SAP BTP, SAP Cloud ALM provides a central, personalized and unified operations user experience. Specifically for Java and Node.js custom-built applications in SAP BTP, Cloud Foundry runtime, there are the Data Collection Instrumentation Libraries based on Open Telemetry designed to enable the data collection infrastructure in SAP Cloud ALM. With these libraries, you can collect data for many observability use cases, such as:
+
+-   Real User Monitoring
+
+-   Real User Monitoring
+
+-   Health Monitoring
+
+-   Integration and Exception Monitoring
+
+
+
 
 </td>
-<td valign="top">
+<td valign="top" rowspan="2">
 
 [SAP Cloud ALM](https://help.sap.com/docs/link-disclaimer?site=https%3A%2F%2Fsupport.sap.com%2Fen%2Falm%2Fsap-cloud-alm.html)
 
@@ -458,6 +479,15 @@ For application monitoring, which is in your responsibility, respective tools ar
 
 
 
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+[SAP Alert Notification service for SAP BTP](https://help.sap.com/docs/alert-notification/sap-alert-notification-for-sap-btp/what-is-sap-alert-notification-service-for-sap-btp?version=Cloud)
+
+Local expert tool that allows you to subscribe to events from the platform – such as from used services, from your custom-built apps, or from the infrastructure – and to consume them via your channel of choice \(such as by receiving notifications via email or in your preferred chat application\). Can be integrated into central alerting of SAP Cloud ALM.
 
 </td>
 </tr>
@@ -661,7 +691,7 @@ Via the ABAP SQL Service it is possible to integrate with SAP Datasphere. Furthe
 <tr>
 <td valign="top">
 
-
+Document Management
 
 </td>
 <td valign="top" colspan="2">
@@ -671,20 +701,6 @@ Via the ABAP SQL Service it is possible to integrate with SAP Datasphere. Furthe
 Document Management Service, Integration Option lets you build document management capabilities for your business applications using the integration component or the easy-to-use, reusable UI component.
 
 Document Management Service, Application Option is a standalone, ready-to-use web application that provides document management capabilities for your enterprise content.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-
-
-</td>
-<td valign="top" colspan="2">
-
-[Object Store on SAP BTP](https://help.sap.com/docs/object-store/object-store-service-on-sap-btp/what-is-object-store)
-
-Object Store service on SAP BTP lets you store and manage objects, which involves creation, upload, download, and deletion. This service is specific to the Infrastructure-as-a-Service layer such as Azure Blob Storage, Amazon Web Services, and Google Cloud Platform.
 
 </td>
 </tr>
@@ -705,7 +721,7 @@ SAP Build Process Automation is a citizen developer solution to adapt, improve, 
 <tr>
 <td valign="top">
 
-
+Service Management
 
 </td>
 <td valign="top">

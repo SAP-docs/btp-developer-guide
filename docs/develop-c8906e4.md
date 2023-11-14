@@ -8,7 +8,7 @@
 
 ## Develop Applications, Extensions and Services with ABAP Cloud
 
-You can develop new apps and services from scratch or extend existing SAP or custom services in an upgrade-safe way. To create a new app and services, you implement the domain-specific implementation including the respective data model and business logic according to the selected use case. All domain-specific data models based on RAP architecture blueprint bring extensibility as a built-in quality. Generally, extensibility is based on an opt-in approach, meaning that the original data model or service must be enabled for the different extensibility use cases.
+You can develop new apps and services from scratch or extend existing SAP or custom services in an upgrade-safe way. To create a new app and services, you implement the domain-specific implementation including the respective data model and business logic according to the selected use case. All domain-specific data models based on [RAP architecture](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/development-business-configuration) blueprint bring extensibility as a built-in quality. Generally, extensibility is based on an opt-in approach, meaning that the original data model or service must be enabled for the different [extensibility use cases](https://help.sap.com/docs/abap-cloud/abap-rap/extend?version=sap_btp).
 
 See:
 
