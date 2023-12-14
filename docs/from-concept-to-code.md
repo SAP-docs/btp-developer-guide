@@ -16,7 +16,9 @@ To solve a problem for a (internal / external) customer with a product, a person
 
 ## Value Stream of Designing Cloud Applications
 
-![](./images/Value_stream_DDD_BTP_Application.png) 
+The following value stream guides to the steps how to achieve a well modularized architecture.
+
+![](./images/Value_stream_DDD_BTP_Application.png)
 
 ### Context
 
