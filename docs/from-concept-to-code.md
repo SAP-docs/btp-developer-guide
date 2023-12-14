@@ -16,7 +16,7 @@ To solve a problem for a (internal / external) customer with a product, a person
 
 ## Value Stream of Designing Cloud Applications
 
-![Value Stream of Application Modelling](./images/Value_stream_DDD_BTP_Application.png) 
+![](./images/Value_stream_DDD_BTP_Application.png) 
 
 ### Context
 

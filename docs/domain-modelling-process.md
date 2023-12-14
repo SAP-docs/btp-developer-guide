@@ -1,7 +1,7 @@
 # Domain-Driven Design Modelling Process 
 
 
-![DDD Modelling Process](./images/ddd_starter_modelling_process_colored.png)
+![](./images/ddd_starter_modelling_process_colored.png)
 
 
 The [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) is a process for learning and applying DDD in practice. It covers eight steps from aligning with the business model to coding the domain model. It is flexible and iterative, and suitable for beginners who want to master DDD.
