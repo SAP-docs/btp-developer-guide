@@ -1,6 +1,6 @@
-# From Concept to Code
+# From Concept to Code 
 
-## What is your business problem?
+## What is your business problem? 
 
 A business problem is a situation that creates a gap between the desired and actual outcomes. It can be any hurdle, situation, or variation that prevents a business from achieving its objectives. A business problem may not have an immediately obvious resolution, and may be masked or hidden by perception and assumption. To define a true problem, one needs to remove the factors that obscure the real reason behind the problem.
 
@@ -14,15 +14,15 @@ To solve a problem for a (internal / external) customer with a product, a person
 * What are the benefits or value that they get from our product?
 * How do they measure the success or impact of our product on their goals?
 
-## Value Stream of Designing Cloud Applications
+## Value Stream of Designing Cloud Applications 
 
 ![Value Stream of Application Modelling](./images/Value_stream_DDD_BTP_Application.png)
 
-### Context
+### Context 
 
 You and your team are tasked to deliver a multi-tenant application for public cloud on BTP or S/4HANA Public Cloud and you want to either base the application on CAP or RAP.
 
-### Trigger
+### Trigger 
 
 One the following triggers should encourage you to engage in sophisticated design process:
 
