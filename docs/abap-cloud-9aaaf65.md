@@ -8,7 +8,7 @@
 
 ## Overview
 
-The technological core of ABAP Cloud defines the design-time and runtime architecture of all extensions, services, and applications. The main ABAP Cloud elements are:
+The technological core of [ABAP Cloud](https://help.sap.com/docs/abap-cloud/abap-cloud/why-abap-cloud) defines the design-time and runtime architecture of all extensions, services, and applications. The main ABAP Cloud elements are:
 
 -   ABAP Core Data Services \(CDS\) for the data model and for embedded analytics
 
