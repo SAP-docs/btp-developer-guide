@@ -38,5 +38,7 @@ See [Grow as You Go](https://cap.cloud.sap/docs/get-started/grow-as-you-go) in t
 
 [Deploy](deploy-45d5acf.md "")
 
-[Operate](operate-f7f2977.md "")
+[Operate](operate-34065a4.md "")
+
+[Operate with SAP Cloud ALM](operate-with-sap-cloud-alm-f7f2977.md "")
 

@@ -60,5 +60,5 @@ Integration services enable system-to-system communication for different protoco
 
 [Deploy](deploy-d7aec3c.md "")
 
-[Operate](operate-f7f2977.md "")
+[Operate with SAP Cloud ALM](operate-with-sap-cloud-alm-f7f2977.md "")
 

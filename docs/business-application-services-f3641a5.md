@@ -417,7 +417,7 @@ Cloud Integration Automation service provides you a guided workflow to integrate
 </td>
 </tr>
 <tr>
-<td valign="top" rowspan="2">
+<td valign="top" rowspan="3">
 
 Observability
 
@@ -442,7 +442,7 @@ For your CAP-based applications on SAP BTP, SAP Cloud ALM provides a central, pe
 
 
 </td>
-<td valign="top" rowspan="2">
+<td valign="top" rowspan="3">
 
 [SAP Cloud ALM](https://help.sap.com/docs/link-disclaimer?site=https%3A%2F%2Fsupport.sap.com%2Fen%2Falm%2Fsap-cloud-alm.html)
 
@@ -488,6 +488,17 @@ For application monitoring, which is in your responsibility, respective tools ar
 [SAP Alert Notification service for SAP BTP](https://help.sap.com/docs/alert-notification/sap-alert-notification-for-sap-btp/what-is-sap-alert-notification-service-for-sap-btp?version=Cloud)
 
 Local expert tool that allows you to subscribe to events from the platform – such as from used services, from your custom-built apps, or from the infrastructure – and to consume them via your channel of choice \(such as by receiving notifications via email or in your preferred chat application\). Can be integrated into central alerting of SAP Cloud ALM.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+[SAP Cloud Logging](https://help.sap.com/docs/cloud-logging/cloud-logging/what-is-sap-cloud-logging?version=Cloud)
+
+SAP Cloud Logging allows you to analyze your SAP BTP workloads in great detail regarding performance, errors, usage, and other characteristics.
+
+It covers processing of logs, metrics, traces across SAP BTP, Cloud Foundry runtime and SAP BTP, Kyma runtime with flexible storage, alerting, and dashboarding.
 
 </td>
 </tr>

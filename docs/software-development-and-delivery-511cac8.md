@@ -30,5 +30,5 @@ See [Automated SAP BTP Instrastructure Setup](automated-sap-btp-instrastructure-
 
 SAP Cloud ALM helps you to implement and operate intelligent cloud and hybrid business solutions. You benefit from an out-of-the-box, native cloud solution running on SAP BTP, designed as the central entry point to manage your complete SAP landscape with content-driven guided implementation and highly automated operations.
 
-See [Operate](operate-f7f2977.md).
+See [Operate with SAP Cloud ALM](operate-with-sap-cloud-alm-f7f2977.md).
 

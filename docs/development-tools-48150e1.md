@@ -200,40 +200,6 @@ Docker Desktop is an application that enables you to manage \(build, push, pull,
 <tr>
 <td valign="top">
 
-[SAP BTP SDK for iOS](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_SDK_FOR_IOS/Latest/en-US)
-
-</td>
-<td valign="top">
-
-Mobile development
-
-</td>
-<td valign="top">
-
-The SAP BTP SDK for iOS is based on the Apple Swift programming language for developing apps in the Xcode IDE and includes well-defined layers \(SDK frameworks, components, and platform services\) that simplify development of enterprise-ready mobile native iOS apps. The SDK is tightly integrated with SAP Mobile Services for Development and Operations.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-[SAP BTP SDK for Android](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_SDK_FOR_ANDROID/Latest/en-US)
-
-</td>
-<td valign="top">
-
-Mobile development
-
-</td>
-<td valign="top">
-
-The SAP BTP SDK for Android provides development tools for creating native Android mobile applications that use SAP Mobile Services. The SDK is based on the Java programming language and is built on top of Google's Android SDK.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 [SAP Cloud SDK](https://help.sap.com/viewer/p/SAP_CLOUD_SDK)
 
 </td>
