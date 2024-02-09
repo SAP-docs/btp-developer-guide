@@ -22,7 +22,7 @@ See [Business Application Services](business-application-services-f3641a5.md).
 
 ## Basic Platform Setup
 
-SAP Business Technology Platform \(SAP BTP\) is an integrated offering comprised of five technology portfolios: application development, automation, integration, data and analytics, and AI. The platform offers users the ability to turn data into business value, compose end-to-end business processes, and build and extend SAP applications quickly. Access all SAP BTP resources on the product page: [SAP Business Technology Platform \(SAP BTP\)](https://help.sap.com/viewer/product/CP/Cloud/en-US?task=discover_task).
+SAP Business Technology Platform \(SAP BTP\) is an integrated offering comprised of five technology portfolios: application development, automation, integration, data and analytics, and AI. The platform offers users the ability to turn data into business value, compose end-to-end business processes, and build and extend SAP applications quickly. Access all SAP BTP resources on the product page: [SAP Business Technology Platform \(SAP BTP\)](https://help.sap.com/docs/btp?version=Cloud).
 
 Learn about basic concepts, such as setting up the correct organizational structure to creating an account and managing users and members. See [Basic Platform Setup](basic-platform-setup-3b774f8.md).
 

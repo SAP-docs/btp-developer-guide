@@ -12,6 +12,8 @@ Additional enterprise qualities are reached by integrating the business modules 
 
 
 
+This image is interactive. Hover over the image and click the highlighted areas so you are placed in the respective cell in the table.
+
 ![](images/Technical_Architecture_251a03a.png)
 
 

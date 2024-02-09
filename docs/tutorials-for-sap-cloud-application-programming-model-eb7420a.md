@@ -28,6 +28,8 @@ The tutorials are organized in the following way.
 
 -   Separate tutorials for the additional modules based on the Incident Management application.
 
+-   All these tutorials are grouped together in the [Develop a Full-Stack CAP Application Following the SAP BTP Developer’s Guide](https://discovery-center.cloud.sap/missiondetail/4327/4608/) mission in the SAP Discovery Center.
+
 
 
 
@@ -101,8 +103,8 @@ The [Deploy a Full-Stack CAP Application in SAP BTP, Kyma Runtime](https://devel
 
 -   Using SAP Build Work Zone, standard edition. See [Integrate Your Application with SAP Build Work Zone, Standard Edition](https://developers.sap.com/tutorials/integrate-with-work-zone.html).
 
+-   Setting up continuous integration and delivery pipeline in SAP BTP. See [Set Up a CI/CD Pipeline for SAP BTP, Kyma Runtime](https://developers.sap.com/tutorials/set-up-cicd-kyma.html).
 
-Additionally, you can also set up a CI/CD pipeline for the application deployed in SAP BTP, Kyma runtime. See [Set Up CI/CD Pipeline](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/kyma-cicd/README.md).
 
 
 
