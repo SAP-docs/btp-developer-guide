@@ -81,6 +81,72 @@ SAP BTP Developer's Guide
 <td valign="top">
 
 -   ABAP
+
+
+
+</td>
+<td valign="top">
+
+Explore the Develop a Full-Stack RAP Application Following the SAP BTP Developer’s Guide Mission
+
+</td>
+<td valign="top">
+
+There is a new mission published that is part of the hands-on materials for ABAP Cloud: Develop a Full-Stack RAP Application Following the SAP BTP Developer’s Guide. It is based on the Travel sample application of the [Flight Reference Scenario](https://github.com/SAP-samples/abap-platform-refscen-flight) that is the best practice example for developing, deploying, and operating a full-stack application using ABAP RESTful Application Programming Model \(RAP\) and SAP Fiori.
+
+See [Tutorials for ABAP Cloud](https://help.sap.com/docs/btp/btp-developers-guide/tutorials-for-abap-cloud?version=Cloud).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2024-04-18
+
+</td>
+<td valign="top">
+
+2024-04-18
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP BTP Developer's Guide
+
+</td>
+<td valign="top">
+
+-   ABAP
 -   Kyma
 -   Cloud Foundry
 
@@ -146,7 +212,7 @@ SAP BTP Developer's Guide
 </td>
 <td valign="top">
 
-2024-03-26
+2024-03-21
 
 </td>
 <td valign="top">
