@@ -1,6 +1,6 @@
 <!-- loio6dd97e11cae44afa809351e1222aafd8 -->
 
-# Automated SAP BTP Instrastructure Setup
+# Automated SAP BTP Infrastructure Setup
 
 Terraform is the de-facto industry standard for infrastructure as code with more than 3000 providers. With the Terraform provider for SAP BTP, you can now use this standard to create Terraform scripts that set up your SAP BTP landscapes. Given the nature of Terraform, it is even possible to add non-SAP infrastructure to those scripts if the infrastructure provider offers a Terraform provider as well.
 
