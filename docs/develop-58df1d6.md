@@ -66,7 +66,7 @@ The following is the list of the most prominent tasks within scope of developing
 
 -   Media data
 
-    CAP provides out-of-the-box support for serving media and other binary data. See [Serving Media Data](https://cap.cloud.sap/docs/guides/media-data).
+    CAP provides out-of-the-box support for serving media and other binary data. See [Serving Media Data](https://cap.cloud.sap/docs/guides/providing-services#serving-media-data).
 
 -   Data privacy
 
