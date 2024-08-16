@@ -11,7 +11,8 @@ Learn more about developing applications on the SAP BTP, Cloud Foundry environme
 
 <a name="loio58df1d6d44c44f83a7f925dcc8384b13__section_jms_z5d_53b"/>
 
-## Overview
+
+CAP provides out-of-the-box support for serving media and other binary data. See [Serving Media Data](https://cap.cloud.sap/docs/guides/providing-services#serving-media-data).
 
 SAP BTP, Cloud Foundry environment is an open Platform-as-a-Service \(PaaS\) targeted at microservice development and orchestration.
 
