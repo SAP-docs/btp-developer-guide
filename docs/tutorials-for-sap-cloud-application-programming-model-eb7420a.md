@@ -8,12 +8,20 @@ This application enables the interaction between the members of the support team
 
 The tutorials are built using the Incident Management application. Where applicable, these tutorials use the free plans of the respective services.
 
-Before you start using the services or runtimes, you need to manage your entitlements and add quotas to your subaccounts. See [Entitlements and Quotas](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/00aa2c23479d42568b18882b1ca90d79.html "When you purchase an enterprise account, you’re entitled to use a specific set of resources, such as the amount of memory that can be allocated to your applications.") :arrow_upper_right:.
+Before you start using the services or runtimes, you need to manage your entitlements and add quotas to your subaccounts. See [Entitlements and Quotas](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Validation/en-US/00aa2c23479d42568b18882b1ca90d79.html "When you purchase an enterprise account, you’re entitled to use a specific set of resources, such as the amount of memory that can be allocated to your applications.") :arrow_upper_right:.
 
 Note that if you want to try out services for free, you need to select free tier service plan, if available. For a list of free services, check the Service Catalog at [SAP Discovery Center](https://discovery-center.cloud.sap/servicessearch/Free%20Tier/).
 
 > ### Note:  
 > There is also a free plan for the SAP BTP, Cloud Foundry runtime and SAP BTP, Kyma runtime. To use the free plan of the runtimes, you have to configure the entitlements in the SAP BTP cockpit. You have one free plan for each runtime per global account and you can assign it to one subaccount at a time.
+
+
+
+This image is interactive. Click the highlighted areas so you open the respective tutorial or mission.
+
+![](images/Tutorials_and_Missions_in_Order_12092d9.png)
+
+
 
 The tutorials are organized in the following way.
 

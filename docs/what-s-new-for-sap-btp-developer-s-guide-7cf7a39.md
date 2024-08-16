@@ -88,6 +88,144 @@ SAP BTP Developer's Guide
 </td>
 <td valign="top">
 
+New Graphic Showing the Order of the Tutorials and Missions for CAP
+
+</td>
+<td valign="top">
+
+You can now use an interactive graphic to follow the tutorials and missions related to the SAP Cloud Application Programming Model \(CAP\) and based on the Incident Management sample application.
+
+See [Tutorials for SAP Cloud Application Programming Model](https://help.sap.com/docs/btp/btp-developers-guide/tutorials-for-sap-cloud-application-programming-model?version=Cloud).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2024-08-02
+
+</td>
+<td valign="top">
+
+2024-08-02
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP BTP Developer's Guide
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Tutorials for Consuming Remote Services Moved to Tutorial Navigator
+
+</td>
+<td valign="top">
+
+The tutorials that show how to integrate the SAP S/4HANA Cloud Business Partner API to the Incident Management application are now moved to the Tutorial Navigator. There are two main groups depending on whether you have an SAP S/4HANA Cloud tenant, or you use a mock server:
+
+-   [Consume Remote Services from S/4HANA Cloud in Your Full-Stack CAP Application Following the SAP BTP Developer's Guide and Deploy in SAP BTP, Cloud Foundry Runtime](https://developers.sap.com/group.sap-s4hana-consume-remote-services.html)
+
+-   [Consume Remote Services from a Mock Server in Your Full-Stack CAP Application Following the SAP BTP Developer's Guide and Deploy in SAP BTP, Cloud Foundry Runtime](https://developers.sap.com/group.sap-mock-consume-remote-services.html)
+
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2024-08-01
+
+</td>
+<td valign="top">
+
+2024-08-01
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP BTP Developer's Guide
+
+</td>
+<td valign="top">
+
+-   Kyma
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 Explore the Develop a Side-by-Side CAP-Based Extension Application Following the SAP BTP Developer’s Guide Mission
 
 </td>

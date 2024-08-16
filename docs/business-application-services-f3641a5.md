@@ -605,7 +605,7 @@ Use Data Privacy Integration service to make your SAP BTP application compliant 
 Workflow
 
 </td>
-<td valign="top" colspan="2">
+<td valign="top">
 
 [SAP Task Center](https://help.sap.com/docs/task-center/sap-task-center/what-is-sap-task-center?version=Cloud)
 
@@ -613,13 +613,12 @@ SAP Task Center service enables integration with SAP applications to provide a s
 
 Use SAP Task Center as a unified inbox for tasks across multiple applications with integrated user experience. Tasks from multiple SAP solutions are gathered in one list and ready to be processed in just one click, shortening the completion time for business-critical tasks. For example, business users can process all their tasks from the connected systems, without the need to switch and log in separately into different inboxes.
 
-[SAP Build Process Automation](https://help.sap.com/docs/build-process-automation/sap-build-process-automation/what-is-sap-build-process-automation?version=Cloud)
+</td>
+<td valign="top">
 
-SAP Build Process Automation provides a simpler and faster way to adapt, improve, and innovate business processes with drag-and-drop simplicity.
+[Proxy API for the Workflow Capability](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/proxy-api-for-workflow-capability)
 
-The solution combines workflow management, SAP Intelligent Robotic Process Automation \(SAP Intelligent RPA\) functionality, decision management, process visibility, and embedded AI capabilities into one intuitive low-code experience.
-
-You can jumpstart automation projects with hundreds of process content packages, SAP Intelligent RPA bots and connectors designed specifically to enhance the capabilities of the SAP solutions you are using. It provides a unified development experience for users of all skill levels enabling fusion teams of business experts and developers to work together and solve challenges faster.
+There is a released local ABAP API to use the SAP BTP Workflow capabilities.
 
 </td>
 </tr>
@@ -724,9 +723,11 @@ Low Code/No Code
 </td>
 <td valign="top" colspan="2">
 
-[SAP Build](https://help.sap.com/docs/SAP%20Build/9d385a1842594230993661ca78dce150/7e50fa5e724c49d1a4352848275fd3cc.html?version=Cloud)
+[SAP Build Process Automation](https://help.sap.com/docs/build-process-automation/sap-build-process-automation/what-is-sap-build-process-automation?version=Cloud)
 
-SAP Build is a low-code offering to accelerate development and automation. It enables you to create enterprise apps \(SAP Build Apps\), automate processes \(SAP Build Process Automation\), and design business sites \(SAP Build Work Zone\) without writing code. Accelerate development with prebuilt connectors and business content for SAP and third-party systems to integrate seamlessly. SAP Build fosters collaboration between business and development teams with built-in governance and lifecycle management.
+The solution combines workflow management, SAP Intelligent Robotic Process Automation \(SAP Intelligent RPA\) functionality, decision management, process visibility, and embedded AI capabilities into one intuitive low-code experience.
+
+You can jumpstart automation projects with hundreds of process content packages, SAP Intelligent RPA bots and connectors designed specifically to enhance the capabilities of the SAP solutions you are using. It provides a unified development experience for users of all skill levels enabling fusion teams of business experts and developers to work together and solve challenges faster.
 
 </td>
 </tr>
