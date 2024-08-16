@@ -34,11 +34,11 @@ See [Grow as You Go](https://cap.cloud.sap/docs/get-started/grow-as-you-go) in t
 
 [Design](design-dcdc2d9.md "")
 
-[Develop](develop-58df1d6.md "Learn more about developing applications using SAP Cloud Application Programming Model (CAP).")
+[Develop](develop-58df1d6.md "Learn more about developing applications on the SAP BTP, Cloud Foundry environment.")
 
 [Deploy](deploy-45d5acf.md "")
 
-[Operate](operate-34065a4.md "")
+[Reference Application](reference-application-34065a4.md "")
 
-[Operate with SAP Cloud ALM](operate-with-sap-cloud-alm-f7f2977.md "")
+[Operate](operate-f7f2977.md "")
 
