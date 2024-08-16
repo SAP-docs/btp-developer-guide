@@ -401,7 +401,7 @@ SAP Master Data Integration service acts as the central master data hub. It uses
 
 [SAP Integration Suite](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite?version=CLOUD)
 
-Use the Cloud Integration capability of SAP Integration Suite for mediated data or process integration, espially if complex integration flows, transformations or dedicated protocols are required. Besides mediated application-to-application integration, Cloud Integration usage is recommended for business-to-business and business-to-governance processes.
+Use the Cloud Integration capability of SAP Integration Suite for mediated data or process integration, especially if complex integration flows, transformations or dedicated protocols are required. Besides mediated application-to-application integration, Cloud Integration usage is recommended for business-to-business and business-to-governance processes.
 
 The API Management capability of SAP Integration Suite allows you to easily enable your developer community with governed, secure, and policy-compliant access to all your APIs, events, and integrations.
 
@@ -431,8 +431,6 @@ Observability
 SAP Cloud ALM helps you to implement and operate intelligent cloud and hybrid business solutions.
 
 For your CAP-based applications on SAP BTP, SAP Cloud ALM provides a central, personalized and unified operations user experience. Specifically for Java and Node.js custom-built applications in SAP BTP, Cloud Foundry runtime, there are the Data Collection Instrumentation Libraries based on Open Telemetry designed to enable the data collection infrastructure in SAP Cloud ALM. With these libraries, you can collect data for many observability use cases, such as:
-
--   Real User Monitoring
 
 -   Real User Monitoring
 
@@ -760,7 +758,7 @@ Authentication
 </td>
 <td valign="top">
 
-[SAP Authentication and Trust Management Service](https://help.sap.com/docs/btp/sap-business-technology-platform/sap-authorization-and-trust-management-service-in-cloud-foundry-environment?version=Cloud)
+[SAP Authorization and Trust Management Service](https://help.sap.com/docs/btp/sap-business-technology-platform/sap-authorization-and-trust-management-service-in-cloud-foundry-environment?version=Cloud)
 
 The SAP Authorization and Trust Management service lets you manage user authorizations and trust to identity providers. Identity providers are the user base for applications.
 
