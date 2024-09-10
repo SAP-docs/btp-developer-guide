@@ -593,10 +593,6 @@ Data Privacy
 
 [SAP Data Privacy Integration](https://help.sap.com/docs/data-privacy-integration/development/data-privacy-integration?version=Cloud)
 
-[SAP Personal Data Manager](https://help.sap.com/docs/personal-data-manager/development/what-is-personal-data-manager?version=Cloud)
-
-[SAP Data Retention Manager](https://help.sap.com/docs/data-retention-manager/development/what-is-sap-data-retention-manager)
-
 Use Data Privacy Integration service to make your SAP BTP application compliant with the corporate Data Privacy and Protection standards. Integrate with the Data Privacy Integration service to support cross consumable Data Privacy and Protection features for our customers and support cross Data Privacy and Protection compliance in end-to-end processes.
 
 </td>
