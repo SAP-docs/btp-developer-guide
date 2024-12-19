@@ -24,6 +24,12 @@ The Terraform module uses the Terraform provider for SAP BTP. Terraform provider
 
 -   The development team must have admin access at the subaccount level or SAP BTP global account level.
 
+-   The development team must have its own [Identity Authentication tenant](https://help.sap.com/docs/cloud-identity-services/cloud-identity-services/get-your-tenant).
+
+-   The development team must create a technical user.
+
+-   The technical user must be invited to the custom Identity Authentication tenant.
+
 
 
 

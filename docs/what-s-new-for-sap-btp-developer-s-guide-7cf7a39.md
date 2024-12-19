@@ -80,6 +80,142 @@ SAP BTP Developer's Guide
 </td>
 <td valign="top">
 
+-   Cloud Foundry
+-   Kyma
+
+
+
+</td>
+<td valign="top">
+
+Content Tabs for Node.js and Java added to Tutorial Navigator
+
+</td>
+<td valign="top">
+
+You can now develop a CAP application in Java following the SAP BTP Developer's Guide. There is a new content tab **Java** in the tutorials from the [Develop a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://developers.sap.com/group.cap-application-full-stack.html) group of tutorials.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2024-12-19
+
+</td>
+<td valign="top">
+
+2024-12-19
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP BTP Developer's Guide
+
+</td>
+<td valign="top">
+
+-   Kyma
+
+
+
+</td>
+<td valign="top">
+
+Tutorials for Consuming Remote Services and Deploying in SAP BTP, Kyma Runtime Moved to Tutorial Navigator
+
+</td>
+<td valign="top">
+
+The tutorials that show how to integrate the SAP S/4HANA Cloud Business Partner API to the Incident Management application are now moved to the Tutorial Navigator. There are two main groups depending on whether you have an SAP S/4HANA Cloud tenant, or you use a mock server:
+
+-   [Consume Remote Services from S/4HANA Cloud in Your Full-Stack CAP Application Following the SAP BTP Developer's Guide and Deploy in SAP BTP, Kyma Runtime](https://developers.sap.com/group.kyma-cap-consume-s4-services.html)
+
+-   [Consume Remote Services from a Mock Server in Your Full-Stack CAP Application Following the SAP BTP Developer's Guide and Deploy in SAP BTP, Kyma Runtime](https://developers.sap.com/group.kyma-cap-consume-mock-services.html)
+
+
+
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2024-12-16
+
+</td>
+<td valign="top">
+
+2024-12-16
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+SAP BTP Developer's Guide
+
+</td>
+<td valign="top">
+
 -   Kyma
 
 

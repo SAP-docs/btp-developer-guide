@@ -126,7 +126,7 @@ ABAP Cloud
 </th>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" rowspan="2">
 
 Development Tools
 
@@ -140,13 +140,22 @@ Designed and optimized for business application development in SAP ecosystems, S
 Central to the development environment is Code-OSS, the open-source foundation of Visual Studio Code, ensuring a familiar experience for developers when creating SAP-centric applications. SAP Business Application Studio streamlines the building, testing, and deployment of applications with integrated features for source control and testing. Furthermore, its Full-Stack Application Productivity Toolkit offers intuitive visual tools covering the entire development process, guaranteeing seamless integration with various SAP services and solutions.
 
 </td>
-<td valign="top">
+<td valign="top" rowspan="2">
 
 [ABAP Development Tools for Eclipse](https://tools.eu1.hana.ondemand.com/#abap)
 
 [SAP Business Application Studio](https://help.sap.com/docs/bas/sap-business-application-studio/what-is-sap-business-application-studio?version=Cloud)
 
 Use ABAP development tools for Eclipse to benefit from an efficient development environment for all ABAP-based development artifacts. Use the SAP Business Application Studio to develop the SAP Fiori parts of your ABAP-based applications.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+[SAP Continuous Integration and Delivery](https://help.sap.com/docs/continuous-integration-and-delivery/sap-continuous-integration-and-delivery/what-is-sap-continuous-integration-and-delivery?version=Cloud)
+
+The Continuous Integration & Continuous Delivery \(CI/CD\) service offers pre-configured pipelines that automate the building and testing of code changes developed in SAP Business Application Studio. These pipelines can be customized to meet your specific needs. By providing immediate feedback on the status of your code, the service helps to identify and fix issues early in the development process. This accelerates development and improves the quality of your code.
 
 </td>
 </tr>
@@ -160,15 +169,7 @@ Software Delivery
 
 [SAP Continuous Integration and Delivery](https://help.sap.com/docs/continuous-integration-and-delivery/sap-continuous-integration-and-delivery/what-is-sap-continuous-integration-and-delivery?version=Cloud)
 
-Use SAP Continuous Integration and Delivery for non-ABAP applications with a full end-to-end support for SAP BTP cloud applications.
-
-SAP Continuous Integration and Delivery lets you configure and run predefined continuous integration and delivery \(CI/CD\) pipelines that automatically build, test, and deploy your code changes to speed up your development and delivery cycles.
-
-Use SAP CI for non-ABAP applications with a full end-to-end support for SAP BTP cloud applications.
-
-SAP CI guides along solid tests, zero-downtime deployment, consistency, release via feature activation, operation guidance. It supports full end-to-end support for BTP cloud applications.
-
-Consider the complete innovation lifecycle that includes \(beside others\) Design Thinking, Domain Driven Design, Feature \(Toggle\) Definition, local build, unit tests, integration tests, end-to-end tests, progressive deployment, feature activation, documentation, DevOps monitoring, usage tracking, metering, adoption measurement and closing the feedback loop.
+By enabling deployment, setting the deployment target, and optionally configuring the handover to SAP Cloud Transport Management, you can use SAP Continuous Integration and Delivery to automate your delivery process. This helps to accelerate your delivery cycles.
 
 </td>
 <td valign="top" rowspan="2">
@@ -185,7 +186,7 @@ Consider the complete innovation lifecycle that includes \(beside others\) Desig
 
 -   For partners:
 
-    In addition to the customer scenario, products can be built based on software components with the help of the Landscape Portal to setup multitenant SaaS applications or to offer installable products like SDKs for other customers and partners. See [Landscape Portal](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/landscape-portal).
+    In addition to the customer scenario, products can be built based on software components with the help of the Landscape Portal to set up multitenant SaaS applications or to offer installable products like SDKs for other customers and partners. See [Landscape Portal](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/landscape-portal).
 
 
 
@@ -197,11 +198,9 @@ Consider the complete innovation lifecycle that includes \(beside others\) Desig
 
 [SAP Cloud Transport Management](https://help.sap.com/docs/cloud-transport-management/sap-cloud-transport-management/what-is-sap-cloud-transport-management?version=Cloud)
 
-Optionally complement your pipeline with an automated handover of your qualified changes into a standardized, enterprise-ready change management process. For changes in SAP BTP, Cloud Foundry runtime, the pipeline provided by SAP Continuous Integration and Delivery service allows to trigger out-of-the-box a transport in SAP Cloud Transport Management service.
+SAP Cloud Transport Management offers a standardized, enterprise-ready change management process. For changes in SAP BTP, Cloud Foundry runtime, the corresponding pipeline in SAP Continuous Integration and Delivery includes out-of-the-box transports in the Cloud Transport Management service.
 
-With other CI/CD solutions, you can also trigger such a transport via project ‘Piper’. SAP Cloud Transport Management allows you to centrally define delivery landscapes and to then handle the transport of development and application-specific content between the subaccounts defined in this landscape. With this, you can add additional control for the propagation of your changes especially towards your production environments, such as by defining who is allowed to come up and handle changes in which environment. Also, you gain the option to apply existing or new change management processes, such as being offered by change and deployment management capabilities of SAP Cloud ALM – for example, to centrally synchronize the delivery of SAP BTP changes with changes from other environments, as part of hybrid applications.
-
-You can also use SAP Cloud Transport Management to transport your changes without pipeline.
+While we strongly recommend using the Continuous Integration and Delivery service, you can also use SAP Cloud Transport Management to transport your changes without a pipeline.
 
 </td>
 </tr>
@@ -434,7 +433,7 @@ Customers want to create a personalized view on the applications you produce. Ma
 
 [SAP Fiori Launchpad for SAP BTP, ABAP Environment](https://help.sap.com/docs/btp/sap-fiori-launchpad-for-sap-btp-abap-environment/sap-fiori-launchpad-user-guide?version=Cloud) 
 
-[SAP Work Zone, standard edition](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/what-is-sap-build-work-zone-standard-edition)
+[SAP Build Work Zone, standard edition](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/what-is-sap-build-work-zone-standard-edition)
 
 [SAP Build Work Zone, advanced edition](https://help.sap.com/docs/build-work-zone-advanced-edition/sap-build-work-zone-advanced-edition/what-is-sap-build-work-zone-advanced-edition)
 
