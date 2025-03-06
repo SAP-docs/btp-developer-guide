@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: btp-developer-guide
+Upstream-Contact: Ekaterina Mitova (ekaterina.mitova@sap.com)
+Source: https://github.com/sap-docs/btp-developer-guide
+
+Files: *
+Copyright:  2023 SAP SE or an SAP affiliate company and sap-docs/btp-developer-guide contributors
+License: CC-BY-4.0
