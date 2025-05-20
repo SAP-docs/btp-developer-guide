@@ -527,8 +527,6 @@ For your CAP-based applications on SAP BTP, SAP Cloud ALM provides a central, pe
 
 -   Real User Monitoring
 
--   Real User Monitoring
-
 -   Health Monitoring
 
 -   Integration and Exception Monitoring
