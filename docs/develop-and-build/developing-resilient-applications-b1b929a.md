@@ -28,7 +28,7 @@ During that period, the remaining instances in the healthy AZs have to carry the
   
 **Distribution During an Availability Zone Failure**
 
-![](images/AZ_failure_3e96947.png "Distribution During an Availability Zone Failure")
+![The scheduler reallocates instances to Availability Zones 2 and 3, bypassing the unavailable Availability Zone 1.](images/AZ_failure_3e96947.png "Distribution During an Availability Zone Failure")
 
 
 
@@ -42,4 +42,3 @@ Learn how to develop stable Kubernetes and microservice-based applications, as w
 
 
 [Resilience, High Availability, and Disaster Recovery \(Cloud Foundry, ABAP and Kyma Environments\)](https://help.sap.com/docs/btp/sap-business-technology-platform/resilience-high-availability-and-disaster-recovery?locale=en-US&version=Cloud#loioe3ac4f7c25a3442ca585950095eec599)
-

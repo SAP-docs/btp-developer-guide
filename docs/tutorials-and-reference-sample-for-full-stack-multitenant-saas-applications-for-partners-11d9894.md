@@ -10,7 +10,7 @@ By using services in SAP BTP and the SAP Cloud Application Programming Model \(C
 
 The reference application and its tutorials cover a wide range of services and components in SAP BTP. You can find a list of all services in the bill of materials of the partner reference application on GitHub. See [Bill of Materials](https://github.com/SAP-samples/partner-reference-application/blob/main/Tutorials/01-BillOfMaterials.md) on GitHub.
 
-![](images/Partner_Sample_Application_in_SAP_BTP_Developer_s_Guide_69a117a.png)
+![This diagram illustrates the architectural setup of a Partner SaaS Application within SAP BTP, detailing its core components like the CAP (Node.js) application, SAP HANA Cloud, and HTML5 App Repository, along with integrated SAP services, and demonstrating interactions with users, developers, and other SAP Cloud and On-Premise solutions.](images/Partner_Sample_Application_in_SAP_BTP_Developer_s_Guide_69a117a.png)
 
 The tutorials in the repository follow an incremental development approach, guiding users through the development journey. They cover:
 
@@ -19,5 +19,4 @@ The tutorials in the repository follow an incremental development approach, guid
 3.  Integrating with various ERP backends.
 4.  Extending the application with additional features.
 
-![](images/Tutorials_in_Partner_Sample_Application_3800fcd.png)
-
+![This image illustrates a four-phase journey in application development, progressing from creating the core functionality to making it scale, connecting it with other systems, and finally adding advanced features.](images/Tutorials_in_Partner_Sample_Application_3800fcd.png)

@@ -206,7 +206,7 @@ Use programming languages, libraries, and APIs tailored for full-stack applicati
 
 The following graphic is designed to help you find the information you need for your programming purposes. The bottom row represents the tools, frameworks, services, and deployment options recommended by SAP. If you want full flexibility you can also bring your own development tools and languages, as shown in the top row.
 
-![](images/Image_Map_Development_Options_Overview_d716bab.png)
+![This diagram outlines a software development flow, illustrating a "Recommended Path" with specific SAP technologies and an "Alternative Path" using generic tools and languages.](images/Image_Map_Development_Options_Overview_d716bab.png)
 
 
 
@@ -223,4 +223,3 @@ This development approach offers guidance for important development decisions an
 ## Tutorials and End-to-End Scenarios
 
 There are tutorials and end-to-end scenarios developed to show you how to apply the recommended path for the Cloud Application Programming Model \(CAP\). All these tutorials and scenarios are based on the Incident Management sample application. For a full list of the tutorials and their use cases, see [Tutorials for SAP Cloud Application Programming Model](tutorials-for-sap-cloud-application-programming-model-eb7420a.md).
-

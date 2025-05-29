@@ -74,7 +74,7 @@ Development projects for business applications have similar characteristics. Sta
 
 Based on the experiences of successful business applications, this guide condenses best practices and technologies that can be safely recommended to you. These recommendations are structured following the design-led development phases:
 
-![](images/Development_Process_in_the_SAP_BTP_Developer_s_Guide_f52c607.png)
+![A horizontal process diagram showing "Discover," "Design," and "Deliver" stages represented by blue-toned shapes, with radiating blue dot patterns on either side, leading towards "Scale" on the right.](images/Development_Process_in_the_SAP_BTP_Developer_s_Guide_f52c607.png)
 
 -   **[Explore](explore-03139be.md)**
 
@@ -159,4 +159,3 @@ Based on the experiences of successful business applications, this guide condens
 > -   [Introduction Video](https://www.youtube.com/watch?v=WJ0oarMlVW4)
 > 
 > -   [Introduction Blog Post](https://blogs.sap.com/2021/11/29/sap-btp-documentation-goes-github-new-collaboration-process/)
-
