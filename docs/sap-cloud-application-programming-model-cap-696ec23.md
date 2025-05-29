@@ -14,7 +14,7 @@ CAP-based projects benefit from a primary focus on domain. Instead of delving in
 
 The following graphic shows that the CAP framework features a mix of proven and broadly adopted open-source and SAP technologies:
 
-![](images/CAP_Overview_7e017ac.png)
+![An architecture diagram illustrating layers of development tools and SAP services (Core Data Services, Fiori, Service SDKs, HANA) interacting with SAP BTP services, built over an infrastructure layer leveraging Node.js, Express, Java, and Spring.](images/CAP_Overview_7e017ac.png)
 
 On top of open-source technologies, CAP mainly adds:
 
@@ -41,4 +41,3 @@ See [Grow as You Go](https://cap.cloud.sap/docs/get-started/grow-as-you-go) in t
 [Operate](operate-34065a4.md "")
 
 [Operating with SAP Cloud ALM](operating-with-sap-cloud-alm-f7f2977.md "")
-

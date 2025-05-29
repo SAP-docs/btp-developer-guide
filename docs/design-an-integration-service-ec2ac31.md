@@ -8,5 +8,4 @@ You can use data integration to exchange data between two or more parties withou
 
 Process integration requirements can span data exchange across system boundaries, like, for example, initiating follow-on actions with events when a value in an app is changed.
 
-![](images/Design_an_Integration_Service_c04a651.png)
-
+![A multi-layered architectural model illustrating the hierarchy from consumer-facing business services, through integration services for exposure and consumption, down to domain-specific programming (ABAP, Core Data Services) and data access points like SAP HANA.](images/Design_an_Integration_Service_c04a651.png)

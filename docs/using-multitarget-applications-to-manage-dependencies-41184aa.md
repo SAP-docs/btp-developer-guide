@@ -21,7 +21,7 @@ The multitarget application archive contains all required application types and 
 
 As all interdependencies are part of the archive file, it's easy to pass multitarget applications from development to operations. All required information for deployment is provided during the development process. Due to the benefits provided by applying the multitarget application approach, it is also part of the SAP Cloud Application Programming Model.
 
-![](images/sap_cp_lm_mta_926ef9d.png)
+![A flow diagram illustrating the process of archiving "Application Modules" into an "MTA Archive" using a deployment descriptor, and its subsequent deployment to various target environments, including Java, HTML5, and SAP HANA.](images/sap_cp_lm_mta_926ef9d.png)
 
 > ### Recommendation:  
 > The approach isn't mandatory for applications that are running on SAP BTP – you can also develop without applying it. Without the multitarget application approach, you'll need to manually deploy your application artifacts, for example by triggering the deployment from SAP Business Application Studio or manually uploading artifacts via SAP BTP cockpit.
@@ -45,5 +45,3 @@ There are several options to create multitarget application archives:
 -   If you have development modules from other sources, you can use the multitarget application archive builder, a Java-based command-line tool that builds modules and packages them into a deployable multitarget application archive, together with a deployment descriptor. It is available for download from SAP Development Tools \(see [https://tools.hana.ondemand.com/\#cloud](https://tools.hana.ondemand.com/#cloud)\).
 
 -   If you use Continuous Integration and Delivery \(CI/CD\), you can let the pipeline perform an automated build of your changes pushed to your central source code repository. The outcome can also be an MTA archive. For more information, see [Delivering Applications](https://help.sap.com/viewer/df50977d8bfa4c9a8a063ddb37113c43/Validation/en-US/b39bae31d35d4d039431973116363d57.html#loiob39bae31d35d4d039431973116363d57 "In enterprise environments, use a managed and automated delivery approach – because it is less error-prone and creates repeatable outcomes. Furthermore, you can apply governance and central control of the propagation of your changes towards your production environment.") :arrow_upper_right:.
-
-

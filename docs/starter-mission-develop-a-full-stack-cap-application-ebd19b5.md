@@ -38,5 +38,4 @@ See the [Develop a Full-Stack CAP Application Following the SAP BTP Developer’
 
 This image is interactive. Click the highlighted areas so you open the respective tutorial or mission.
 
-![](images/Tutorials_Flow_Develop_a_Full-Stack_CAP_Application_68e34cd.png)
-
+![A flowchart illustrating the "Starter Mission" for developing and deploying a full-stack CAP application, showing a main SAP Discovery Center mission leading to tutorial groups for development and optional deployment to either SAP BTP's Cloud Foundry or Kyma runtime.](images/Tutorials_Flow_Develop_a_Full-Stack_CAP_Application_68e34cd.png)

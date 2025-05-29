@@ -4,7 +4,7 @@
 
 Transactional applications in ABAP Cloud provide a robust and scalable solution for managing business processes and data. The ABAP RESTful Application Programming Model \(RAP\) defines how transactional applications are built. The following graphic shows the big picture:
 
-![](images/ABAP_Cloud_-_the_Big_Picture_5d4a7c9.png)
+![Layered architecture of the ABAP RESTful Application Programming Model (RAP), detailing the definition and exposure of data models and business objects for consumption via APIs, events, and Fiori UIs, highlighting extensibility.](images/ABAP_Cloud_-_the_Big_Picture_5d4a7c9.png)
 
 To build a transactional application, you define data models and implement business logic using a declarative approach. The data models as well as the behavior definition make up the ABAP RESTful Application Programming Model business object \(RAP BO\). The data model implemented with ABAP Core Data Services defines the structure of the data. The behavior definition is implemented with ABAP and the Entity Manipulation Language.
 
@@ -297,4 +297,3 @@ For an example, see:
 
 
 For more information about the OData Client Proxy, see [OData Client Proxy-Consumption Types](https://help.sap.com/docs/btp/sap-business-technology-platform/client-proxy-instance-types?version=Cloud#consumption-types).
-

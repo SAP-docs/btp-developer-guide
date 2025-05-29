@@ -19,7 +19,7 @@ The columns in the following graphic show for which use cases using a well-modul
 
 The image is interactive: you can click the column headings to take you to the relevant part of the relevant section below.
 
-![](images/Well-Modularized_Architecture_53b6d43.png)
+![A four-column diagram titled "Achieve a Well-Modularized Architecture," illustrating various application contexts and triggers that lead to a five-step process for defining and implementing software modules, and outlining the resulting architectural and business values.](images/Well-Modularized_Architecture_53b6d43.png)
 
 
 
@@ -353,4 +353,3 @@ You need to collaborate with domain experts and try different models to make you
 [Domain-Driven Design Crew GitHub Organization](https://github.com/ddd-crew)
 
 [Domain-Driven Design Community at SAP](https://github.com/SAP/curated-resources-for-domain-driven-design)
-
