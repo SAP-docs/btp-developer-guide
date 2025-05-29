@@ -8,7 +8,7 @@ A transactional application consists of a client, the business service exposure 
 
 The following graphic gives you an overview of the main parts of the transactional application’s architecture:
 
-![](images/Design_a_Transactional_Application_d715f00.png)
+![This diagram illustrates a layered architectural overview for SAP application development, detailing components from data access and domain modeling to business service exposure and consumer interfaces like SAP Fiori UIs.](images/Design_a_Transactional_Application_d715f00.png)
 
 The client is either an SAP Fiori elements or SAPUI5 application or any API consumer.
 
@@ -17,4 +17,3 @@ In the business service exposure the kind of service that is exposed is defined.
 The ABAP RESTful Application Programming Model \(RAP\) is used to create UI and API services including the domain model and implementation. The center piece of RAP is the business object. RAP's business objects consist of the data model implemented with the core data services and the transactional behavior implemented with the Entity Manipulation Language \(EML\).
 
 The architectural separation of concerns between the domain-specific implementation and the business service exposure allows you to expose the same data model for analytical and transactional applications and services.
-

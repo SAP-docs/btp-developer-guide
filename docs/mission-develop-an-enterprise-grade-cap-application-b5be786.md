@@ -10,5 +10,4 @@ See [Develop an Enterprise-Grade CAP Application Following the SAP BTP Developer
 
 This image is interactive. Click the highlighted areas so you open the respective tutorial or mission.
 
-![](images/Mission_Develop_an_Enterprise-Grade_CAP_Application_Following_the_SAP_BTP_Developer_s_Guide_43b74ca.png)
-
+![A flowchart illustrating the development of an enterprise-grade CAP application, connecting foundational missions (blue), a reference GitHub repository (light blue), and specific feature tutorials (gray).](images/Mission_Develop_an_Enterprise-Grade_CAP_Application_Following_the_SAP_BTP_Developer_s_Guide_43b74ca.png)

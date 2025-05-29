@@ -102,7 +102,7 @@ Additional enterprise qualities are reached by integrating the business modules 
 
 This image is interactive. Hover over the image and click the highlighted areas so you are placed in the respective cell in the table.
 
-![](images/Technical_Architecture_251a03a.png)
+![This diagram illustrates the architecture of the SAP Business Technology Platform, detailing its components like the SAP Build Work Zone with Kyma and ABAP runtimes, various application programming models, core data services, and connections to SAP HANA Cloud and SAP Datasphere. It also lists a comprehensive suite of SAP services available on the platform.](images/Technical_Architecture_251a03a.png)
 
 
 
@@ -1001,4 +1001,3 @@ SAP Automation Pilot allows to reduce operational efforts to run your cloud appl
 </td>
 </tr>
 </table>
-

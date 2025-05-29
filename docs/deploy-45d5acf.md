@@ -12,7 +12,7 @@ SAP Cloud Application Programming Model \(CAP\) applications can be deployed in 
 
 After completing the functional implementation of the CAP application by following the best practices, you can deploy your application in the cloud for productive usage. The essential steps are illustrated in the following graphic:
 
-![](images/Deploy_a_CAP_Application_in_Cloud_Foundry_Runtime_50243ce.png)
+![A four-step process diagram illustrates the deployment of an application to Cloud Foundry, including preparing for production (once), freezing dependencies (once; when upgrading), building and assembling, and finally deploying.](images/Deploy_a_CAP_Application_in_Cloud_Foundry_Runtime_50243ce.png)
 
 With our recommended approach, the actual deployment in your SAP BTP, Cloud Foundry runtime is performed either by your [Continuous Integration and Delivery \(CI/CD\)](develop-and-build/continuous-integration-and-delivery-ci-cd-fe74df5.md) pipeline \(such as provided by SAP Continuous Integration and Delivery service\) or handled by transports \(via [SAP Cloud Transport Management](https://help.sap.com/docs/cloud-transport-management?version=Cloud), optionally orchestrated by SAP Cloud ALM\).
 
@@ -35,7 +35,6 @@ In consequence, two kinds of artifacts are needed to run applications on Kuberne
 
 The following diagram shows the steps to run on the SAP BTP, Kyma runtime:
 
-![](images/Deploy_a_CAP_Application_in_the_Kyma_Runtime_d3a3414.png)
+![This diagram illustrates the **deployment architecture of a CAP (Cloud Application Programming) application in the SAP BTP, Kyma runtime**. It depicts the flow from a CAP project being built into container images and pushed to a container registry, then deployed via a CAP Helm Chart to create various Kyma resources (Deployments, Service Instances, Jobs, Pods), with Pods pulling images from the registry and Kyma Service Instances integrating with SAP BTP.](images/Deploy_a_CAP_Application_in_the_Kyma_Runtime_d3a3414.png)
 
 For detailed steps to deploying your application in the SAP BTP, Kyma runtime, see[Deploy in Kyma Runtime](https://cap.cloud.sap/docs/guides/deployment/deploy-to-kyma).
-

@@ -17,7 +17,7 @@ The following graphic shows the basic flow for continuous integration and delive
   
 **Continuous Integration Basic Flow**
 
-![](images/ci-basic-flow-copy_b835ff9.png "Continuous Integration Basic Flow")
+![A circular diagram illustrating the Continuous Integration flow, detailing the cycle from a developer's code changes through SCM, triggering Continuous Integration and Delivery, and receiving feedback.](images/ci-basic-flow-copy_b835ff9.png "Continuous Integration Basic Flow")
 
 For more information about the continuous integration and continuous delivery concepts, see [What Are Continuous Integration and Continuous Delivery?](https://help.sap.com/viewer/8cacec64ed854b2a88e9a0973e0f97a2/Cloud/en-US/5ba483a2c97b4ad5ab0148f4a6c5a9ee.html).
 
@@ -107,5 +107,3 @@ Depending on your learning goals and level of expertise, you can choose from the
 -   **[Continuous Integration and Delivery Introduction Guide](https://help.sap.com/viewer/ee5a61247061455ab232c19179fe4c3b/Cloud/en-US)**
 
     The CI/CD Introduction Guide provides you with basic knowledge for setting up and implementing continuous integration and delivery processes. It gives an overview of the concepts and principles of CI/CD, explains both procedures and their relation, and helps you plan your own CI/CD process.
-
-

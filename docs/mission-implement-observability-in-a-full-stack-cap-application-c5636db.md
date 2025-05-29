@@ -12,5 +12,4 @@ See [Implement Observability in a Full-Stack CAP Application Following SAP BTP D
 
 This image is interactive. Click the highlighted areas so you open the respective tutorial or mission.
 
-![](images/Implement_Observability_Based_on_the_Starter_Mission_ecb3950.png)
-
+![A flowchart titled "Implement Observability Based on the Starter Mission" depicts the process for implementing observability in SAP CAP applications. It starts with a main mission (dark blue), leading to application development and incident management setup (light blue boxes). Subsequent steps are detailed as tutorials (grey boxes) covering log, trace, and metrics collection, enabling observability in SAP BTP runtimes, and utilizing SAP Cloud ALM.](images/Implement_Observability_Based_on_the_Starter_Mission_ecb3950.png)

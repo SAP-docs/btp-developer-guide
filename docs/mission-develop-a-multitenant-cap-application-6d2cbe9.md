@@ -19,5 +19,4 @@ To try out the multitenant functionality on the Incident Management sample appli
 
 This image is interactive. Click the highlighted areas so you open the respective tutorial or mission.
 
-![](images/Mission_Develop_a_Multitenant_CAP_Application_1f4feba.png)
-
+![A flowchart visually outlines the process for developing a multitenant CAP application. It details steps from initial development and enabling multitenancy, through deployment on either SAP BTP Cloud Foundry or Kyma Runtimes, to subscribing to the application. A legend distinguishes between missions, GitHub repositories, and tutorials based on box color.](images/Mission_Develop_a_Multitenant_CAP_Application_1f4feba.png)

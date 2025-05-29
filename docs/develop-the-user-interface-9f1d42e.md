@@ -47,7 +47,7 @@ This approach is a hybrid in-between pure SAPUI5 and SAP Fiori elements. You can
 
 To make the right decision out of these three options, it's important for you as an application developer to understand their features and limitations. The overall recommendation would be to use as much SAP Fiori elements as possible, as much SAPUI5 freestyle as needed.
 
-![](images/User_Interface_116cf74.png)
+![The image displays a spectrum of programming models, illustrating a trade-off between efficiency and flexibility. It ranges from highly efficient "SAP Fiori Elements" using "Standard Floorplans" on the left, through hybrid approaches combining standard floorplans/building blocks with custom elements, to highly flexible "SAPUI5 Freestyle" with "Custom Layout" on the right.](images/User_Interface_116cf74.png)
 
 
 
@@ -62,5 +62,3 @@ If the current and foreseeable application UI design requirements comply with SA
 -   You can flexibly implement a custom layout and content by combining SAPUI5 with building blocks from the flexible programming model.
 
 -   If there's a benefit from using building blocks in a freestyle SAPUI5 application, there's an easy path to integrate the flexible programming model when needed by following the [three-step approach](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/buildingBlocks/guidance/guidanceCustomApps). If OData V4 is used and relevant annotations are being maintained in the back end, then such a benefit probably exists:
-
-

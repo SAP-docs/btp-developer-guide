@@ -29,7 +29,7 @@ SAP Cloud ALM is the central place to integrate and access the monitoring of you
 
 Inbound and outbound APIs enable you to integrate data from your own applications. For more information, see the [API Guide for SAP Cloud ALM](https://help.sap.com/docs/cloud-alm/apis/api-reference).
 
-![](images/SAPCloudALM_operations_d378eed.jpg)
+![A process flow diagram illustrating problem management, from inbound data integration and various detection methods (monitoring, analysis) to intelligent event routing and problem resolution (alerts, notifications, analytics, automation), concluding with outbound integrations. Business Service Management oversees the entire process.](images/SAPCloudALM_operations_d378eed.jpg)
 
 
 
@@ -49,4 +49,3 @@ Inbound and outbound APIs enable you to integrate data from your own application
 
 
 [Operate](operate-34065a4.md "")
-

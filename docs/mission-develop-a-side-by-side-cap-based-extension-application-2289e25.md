@@ -35,5 +35,4 @@ See [Develop a Side-by-Side CAP-Based Extension Application Following the SAP BT
 
 This image is interactive. Click the highlighted areas so you open the respective tutorial or mission.
 
-![](images/Connect_to_a_Remote_Service_Based_on_the_Starter_Mission_82400ab.png)
-
+![A flowchart illustrating various pathways for connecting to a remote service and setting up eventing within SAP BTP, encompassing different development approaches, runtime environments (Cloud Foundry, Kyma), and integrations with SAP Destination and Event Mesh services.](images/Connect_to_a_Remote_Service_Based_on_the_Starter_Mission_82400ab.png)

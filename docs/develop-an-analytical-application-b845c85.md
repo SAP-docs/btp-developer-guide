@@ -15,7 +15,7 @@ Analytical applications require a multidimensional data model that focuses on a 
 -   **Analytical queries** that define the initial report layout that is displayed, select the initial data, and can calculate measures that weren’t included in the underlying cube.
 
 
-![](images/Develop_an_Analytical_Application_a994982.png)
+![A multi-layered architectural diagram depicting the development and consumption of analytical applications. It illustrates the progression from foundational Core Data Services (CDS) for data modeling and analytical providers, through business service exposure via analytical queries, to consumption by SAP Fiori UIs and SAP Analytics Cloud, with extensibility highlighted on the right.](images/Develop_an_Analytical_Application_a994982.png)
 
 
 
@@ -206,4 +206,3 @@ Analytical services use the Analytics Details annotations to specify the ana
 With the annotation `@AnalyticsDetails.query.axis:'<VALUE>’`, you can position the elements of a query on the different axis to define the basic layout for the report.
 
 For more information, see [AnalyticsDetails Annotations](https://help.sap.com/docs/abap-cloud/abap-rap/analyticsdetails-annotation?version=abap_cross_product).
-
