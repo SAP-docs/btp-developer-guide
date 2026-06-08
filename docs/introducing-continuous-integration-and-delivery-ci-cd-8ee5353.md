@@ -54,7 +54,7 @@ The Continuous Delivery process ensures that the most current version is success
 
 ## Continuous Integration Principles
 
-The Continuous Integration process, which forms the foundation of the Continuous Integration and Delivery \(CI/CD\) concepts, is based on several principles. For a clearer understanding, check out the following lesson from the "Discovering DevOps with SAP BTP" learning journey, where three of these principles are explained using an analogy: [Explaining Continuous Integration Principles](https://learning.sap.com/learning-journeys/discovering-devops-with-sap-btp/explaining-continuous-integration-principles_fa206662-72d6-488c-8d23-879307a93502)
+The Continuous Integration process, which forms the foundation of the Continuous Integration and Delivery \(CI/CD\) concepts, is based on several principles. For a clearer understanding, check out the following lesson from the "Discovering DevOps with SAP BTP" learning journey, where three of these principles are explained using an analogy: [Explaining Continuous Integration Principles](https://learning.sap.com/courses/exploring-devops-with-sap-btp/explaining-continuous-integration-principles_fa206662-72d6-488c-8d23-879307a93502)
 
 For detailed explanations of all CI principles, refer to the following documentation: [Continuous Integration Principles](https://help.sap.com/docs/CICD_OVERVIEW/ee5a61247061455ab232c19179fe4c3b/30b2e1d48f634b03a29733c9f88ef688.html)
 
@@ -97,7 +97,7 @@ SAP Continuous Integration and Delivery stands out for its ease of use, offering
 
 SAP Continuous Integration and Delivery provides a high degree of flexibility, allowing users to customize pipelines with additional commands, credentials, and variables. This flexibility ensures the service not only covers standard use cases but also addresses more complex scenarios. Users can expand their pipelines with various tasks executed before or after specific stages, using additional commands. Moreover, extra credentials and variables allow for further customization of CI/CD jobs.
 
-For a detailed overview and various demos on how to create CI/CD jobs in SAP Continuous Integration and Delivery, take a look at the following lesson in the 'Discovering DevOps with SAP BTP' learning journey: [Creating a Basic CI/CD Job with SAP Continuous Integration and Delivery](https://learning.sap.com/learning-journeys/discovering-devops-with-sap-btp/creating-a-basic-ci-cd-job-with-sap-continuous-integration-and-delivery_c5623312-66f2-41c1-83cb-ca589edceb41)
+For a detailed overview and various demos on how to create CI/CD jobs in SAP Continuous Integration and Delivery, take a look at the following lesson in the 'Discovering DevOps with SAP BTP' learning journey: [Creating a Basic CI/CD Job with SAP Continuous Integration and Delivery](https://learning.sap.com/courses/exploring-devops-with-sap-btp/creating-a-basic-ci-cd-job-with-sap-continuous-integration-and-delivery_c5623312-66f2-41c1-83cb-ca589edceb41)
 
 **Related Information**  
 
