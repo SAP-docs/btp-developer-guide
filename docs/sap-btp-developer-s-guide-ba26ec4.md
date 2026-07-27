@@ -41,7 +41,7 @@ If you're new to SAP BTP, read:
     -   Self-service data discovery, modeling, planning, and analytics for business users in a governed environment
 
 
--   [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
+-   [SAP BTP Adoption Framework](https://discovery-center.cloud.sap/guidance-framework)
 
     This is the central access point for architects, developers, and administrators to build and run enterprise-grade solutions on SAP BTP. It comprises decision guides, reference architectures, methodologies, recommendations, and DevOps principles.
 
@@ -55,7 +55,7 @@ If you're new to SAP BTP, read:
 
 -   [SAP BTP Administrator's Guide](https://help.sap.com/docs/btp/best-practices/best-practices-for-sap-btp?version=Cloud)
 
-    Helps you plan and set up your landscape and your lifecycle management for running applications on SAP Business Technology Platform \(SAP BTP\). It's part of the SAP BTP Guidance Framework and contains recommendations for planning development projects – from setting up the correct organizational structure to creating an account and security model, to operating applications.
+    Helps you plan and set up your landscape and your lifecycle management for running applications on SAP Business Technology Platform \(SAP BTP\). It's part of the SAP BTP Adoption Framework and contains recommendations for planning development projects – from setting up the correct organizational structure to creating an account and security model, to operating applications.
 
 -   [SAP Discovery Center](https://discovery-center.cloud.sap/index.html)
 
@@ -72,7 +72,7 @@ If you're new to SAP BTP, read:
 
 ## How to Use This Guide
 
-Use the SAP BTP Developer’s Guide to help you implement business applications on SAP BTP. This guide is part of the SAP BTP Guidance Framework and explains the building blocks for developing, delivering, and integrating business applications.
+Use the SAP BTP Developer’s Guide to help you implement business applications on SAP BTP. This guide is part of the SAP BTP Adoption Framework and explains the building blocks for developing, delivering, and integrating business applications.
 
 
 

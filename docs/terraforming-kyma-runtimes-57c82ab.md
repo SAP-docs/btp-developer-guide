@@ -20,7 +20,7 @@ For this purpose, we recommend you to use the [Terraform module for Kyma](https:
 
 ## Prerequisites
 
--   The CI/CD pipeline must have access to the Terraform or OpenTofu command line interface \(CLI\). See [Install Terraform and the Terraform CLI](https://help.sap.com/docs/link-disclaimer?site=https%3A%2F%2Fdeveloper.hashicorp.com%2Fterraform%2Ftutorials%2Faws-get-started%2Finstall-cli).
+-   The CI/CD pipeline must have access to the Terraform or OpenTofu command line interface \(CLI\). See [Install Terraform and the Terraform CLI](https://help.sap.com/docs/link-disclaimer?site=https%3A%2F%2Fdeveloper.hashicorp.com%2Fterraform%2Ftutorials%2Faws-get-started%2Finstall-cli) or [Installing OpenTofu](https://opentofu.org/docs/intro/install/).
 
 -   The administrative access to SAP BTP global account or subaccount, depending on the scenario.
 

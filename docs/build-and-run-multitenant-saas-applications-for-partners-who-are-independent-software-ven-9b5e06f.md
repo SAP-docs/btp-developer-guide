@@ -14,3 +14,5 @@ If you are an independent software vendor, SAP Business Technology Platform \(SA
 
 [Tutorials and Reference Sample for Full-Stack Multitenant SaaS Applications for Partners](tutorials-and-reference-sample-for-full-stack-multitenant-saas-applications-for-partners-11d9894.md " 		")
 
+[Tutorial and Reference Sample for a Cross-Stack Extension Application](tutorial-and-reference-sample-for-a-cross-stack-extension-application-ca02696.md "")
+
